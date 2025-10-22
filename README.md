@@ -4,7 +4,7 @@
 
 # 👋 Welcome to My Data Analyst Portfolio  
 
-Hi, I’m **Patience Anono** — a passionate **Data Analyst and aspiring Data Consultant** dedicated to transforming raw data into meaningful insights that drive informed business decisions.  
+Hi, I’m **Patience Anono** , a passionate **Data Analyst and aspiring Data Consultant** dedicated to transforming raw data into meaningful insights that drive informed business decisions.  
 
 I specialize in **data collection, cleaning, analysis and visualization**, using tools such as **Python, SQL, Excel, Power BI and Tableau**.  
 My background in **cybersecurity and data management** enables me to approach analytics with both **accuracy and security awareness**.
