@@ -56,8 +56,10 @@ My background in **cybersecurity and data management** enables me to approach an
 ---
 
 ### 🩺 Healthcare Data Analysis  
-Analyzed healthcare data to uncover insights into patient visits, NPS scores and center performance trends. Delivered a full report highlighting efficiency gaps and patient satisfaction drivers.  
-🔗 [View Project on GitHub](https://github.com/PatienceAnono/Healthcare-Data-Analysis)
+**Goal:** To uncover insights into patient visits, satisfaction levels and medical center performance using healthcare data.  
+**Approach:** Performed **data cleaning, statistical analysis and visualization** in Python. Analyzed trends in patient frequency, visit categories and NPS scores across centers.  
+**Impact:** Delivered actionable insights to help healthcare providers enhance operational efficiency, service delivery and patient satisfaction.  
+🔗 [View Project on GitHub](https://github.com/PatienceAnono/HEALTH-CARE-DATA-ANALYSIS)
 
 ## 🧩 My Approach  
 I combine **technical expertise** with **strategic thinking** to deliver insights that matter.  
