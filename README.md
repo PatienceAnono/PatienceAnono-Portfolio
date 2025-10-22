@@ -2,23 +2,20 @@
 ![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/6475ce96bf54e6f04e085e302ad0ed6a97564976/Patience_Anono_Data_Analyst_Banner.png)
 <!-- Replace the above link with your own banner image URL once uploaded to GitHub or Canva -->
 
-# 👋 Welcome to My Data Analyst Portfolio  
+👋 **Welcome to My Data Analyst Portfolio**
 
-Hi, I’m **Patience Anono** , a passionate **Data Analyst and aspiring Data Consultant** dedicated to transforming raw data into meaningful insights that drive informed business decisions.  
-
-I specialize in **data collection, cleaning, analysis and visualization**, using tools such as **Python, SQL, Excel, Power BI and Tableau**.  
-My background in **cybersecurity and data management** enables me to approach analytics with both **accuracy and security awareness**.
+Hi, I’m **Patience Anono** a **Data Analyst and aspiring Data Consultant** passionate about turning complex data into actionable business intelligence.  
+I help organizations uncover patterns, optimize performance and make data-driven decisions with confidence.
 
 ---
 
-## 🧰 Tools & Technologies  
-
+## 🧰 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
