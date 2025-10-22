@@ -1,5 +1,5 @@
 <!-- BANNER IMAGE -->
-![Data Analyst Portfolio Banner](https://github.com/user-attachments/assets/example-banner.png)
+![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/6475ce96bf54e6f04e085e302ad0ed6a97564976/Patience_Anono_Data_Analyst_Banner.png)
 <!-- Replace the above link with your own banner image URL once uploaded to GitHub or Canva -->
 
 # 👋 Welcome to My Data Analyst Portfolio  
