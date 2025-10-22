@@ -5,7 +5,7 @@
 
 Hi, I’m **Patience Anono** — a **Data Analyst and aspiring Data Consultant** passionate about transforming raw data into meaningful insights that drive informed business decisions.  
 
-I specialize in **data collection, cleaning, analysis, and visualization**, using tools such as **Python, SQL, Excel, Power BI, and Tableau**.  
+I specialize in **data collection, cleaning, analysis, and visualization**, using tools such as **Python, SQL, Excel, Power BI and Tableau**.  
 My background in **cybersecurity and data management** enables me to approach analytics with both accuracy and security awareness.  
 
 ---
@@ -40,8 +40,8 @@ My background in **cybersecurity and data management** enables me to approach an
 
 ### 👩‍💼 HR Data Analysis using SQL & Power BI  
 **Goal:** To evaluate workforce performance and employee engagement trends within an organization.  
-**Approach:** Used **SQL** for data cleaning, aggregation, and trend analysis. Designed **interactive Power BI dashboards** visualizing metrics such as turnover rate, department performance, and salary distribution.  
-**Impact:** Enabled HR leaders to make data-driven decisions, improve retention, and track workforce KPIs efficiently.  
+**Approach:** Used **SQL** for data cleaning, aggregation, and trend analysis. Designed **interactive Power BI dashboards** visualizing metrics such as turnover rate, department performance and salary distribution.  
+**Impact:** Enabled HR leaders to make data-driven decisions, improve retention and track workforce KPIs efficiently.  
 🔗 [View SQL Project on GitHub](https://github.com/PatienceAnono/HR-DATA-ANALYSIS)  
 📊 [View Power BI Report](https://github.com/PatienceAnono/HR-DATA-ANALYSIS/blob/main/HR%20Employee%20Report.pbix)
 
@@ -49,7 +49,7 @@ My background in **cybersecurity and data management** enables me to approach an
 
 ### 🌾 Food Security Monitoring (Tableau)  
 **Goal:** To analyze and visualize food security data for the Karamoja region in Uganda.  
-**Approach:** Built **interactive Tableau dashboards** that combined data from multiple sources to track key indicators such as food access, malnutrition, and household income levels.  
+**Approach:** Built **interactive Tableau dashboards** that combined data from multiple sources to track key indicators such as food access, malnutrition and household income levels.  
 **Impact:** Provided policymakers and humanitarian agencies with clear visual insights to support food assistance and development strategies.  
 🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/patience5611/viz/KaramojaRegionFoodmonitoringtool/SummaryTable)
 
@@ -57,12 +57,12 @@ My background in **cybersecurity and data management** enables me to approach an
 
 ## 🧩 My Approach  
 I combine **technical expertise** with **strategic thinking** to deliver insights that matter.  
-Whether it’s optimizing datasets, building dashboards, or automating reports, my goal is to make data **accessible, accurate, and actionable**.
+Whether it’s optimizing datasets, building dashboards, or automating reports, my goal is to make data **accessible, accurate and actionable**.
 
 ---
 
 ## 🎯 My Mission  
-As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data — ensuring **accuracy, clarity, and measurable impact**.
+As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data — ensuring **accuracy, clarity and measurable impact**.
 
 ---
 
