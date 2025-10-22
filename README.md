@@ -1,6 +1,6 @@
-<!-- BANNER IMAGE -->
+
 ![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/6475ce96bf54e6f04e085e302ad0ed6a97564976/Patience_Anono_Data_Analyst_Banner.png)
-<!-- Replace the above link with your own banner image URL once uploaded to GitHub or Canva -->
+
 
 👋 **Welcome to My Data Analyst Portfolio**
 
@@ -48,7 +48,7 @@ Whether it’s optimizing datasets, building dashboards or automating reports, m
 ---
 
 ## 🎯 My Mission  
-As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data — ensuring accuracy, clarity and measurable impact.
+As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data, ensuring accuracy, clarity and measurable impact.
 
 ---
 
