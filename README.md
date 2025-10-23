@@ -3,9 +3,9 @@
 
 # 👋 Welcome to My Data Analyst Portfolio  
 
-Hi, I’m **Patience Anono** — a **Data Analyst and aspiring Data Consultant** passionate about transforming raw data into meaningful insights that drive informed business decisions.  
+Hi, I’m **Patience Anono**, a **Data Analyst and aspiring Data Consultant** passionate about transforming raw data into meaningful insights that drive informed business decisions.  
 
-I specialize in **data collection, cleaning, analysis, and visualization**, using tools such as **Python, SQL, Excel, Power BI and Tableau**.  
+I specialize in **data collection, cleaning, analysis and visualization**, using tools such as **Python, SQL, Excel, Power BI and Tableau**.  
 My background in **cybersecurity and data management** enables me to approach analytics with both accuracy and security awareness.  
 
 ---
@@ -61,14 +61,35 @@ My background in **cybersecurity and data management** enables me to approach an
 **Impact:** Delivered actionable insights to help healthcare providers enhance operational efficiency, service delivery and patient satisfaction.  
 🔗 [View Project on GitHub](https://github.com/PatienceAnono/HEALTH-CARE-DATA-ANALYSIS)
 
+---
+
+## 🎓 Certifications Highlights
+
+- **Google Cybersecurity Professional Certificate (7 courses)**  
+  - Foundations of Cybersecurity  
+  - Managing Security Risks  
+  - Assets, Threats, and Vulnerabilities  
+  - Detection and Response  
+  - Networks and Network Security  
+  - Linux and SQL  
+  - Automating Cybersecurity Tasks with Python
+
+- **SQL & Relational Databases 101** — Cognitive Class  
+- **Data Analysis with Python** — Cognitive Class  
+- **Hadoop 101** — Cognitive Class  
+- **Big Data 101** — Cognitive Class  
+- **Cyber Security Certificate** — Alison
+
+---
+
 ## 🧩 My Approach  
 I combine **technical expertise** with **strategic thinking** to deliver insights that matter.  
-Whether it’s optimizing datasets, building dashboards, or automating reports, my goal is to make data **accessible, accurate and actionable**.
+Whether it’s optimizing datasets, building dashboards or automating reports, my goal is to make data **accessible, accurate and actionable**.
 
 ---
 
 ## 🎯 My Mission  
-As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data — ensuring **accuracy, clarity and measurable impact**.
+As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data, ensuring **accuracy, clarity and measurable impact**.
 
 ---
 
