@@ -100,11 +100,3 @@ As I continue my journey toward becoming a **Data Consultant**, my mission is to
 🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)  
 
 ⭐️ *If you like my projects, consider starring them on GitHub!*
-
-
-📧 **Email:** [patienceanonowebbo@gmail.com](mailto:patienceanonowebbo@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://www.linkedin.com/in/patience-anono-22ab06176/)  
-🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)
----
-
-⭐️ *If you like my projects, consider starring them on GitHub!*
