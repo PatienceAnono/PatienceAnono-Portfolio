@@ -21,6 +21,22 @@ My background in **cybersecurity and data management** enables me to approach an
 ---
 
 ## 💼 Featured Projects  
+### 📊 Customer Marketing Insights Analysis
+
+**Goal:** Analyze customer behavior and marketing channel performance using Google Analytics e-commerce data to provide actionable business insights.
+
+**Approach:** Performed full exploratory data analysis (EDA) in Python and Jupyter Notebook, including funnel analysis, product performance benchmarking, and conversion efficiency comparison across channels.
+
+**Key Insights:**
+- Email & Referral channels had higher conversion rates than high-traffic channels.
+- The biggest funnel drop-off occurred at *Add to Cart → Checkout*.
+- Top products drove over 60% of revenue.
+- Returning customers showed higher engagement and repeat buying behavior.
+
+**Impact:** Provided strategic recommendations that improve marketing ROI and funnel efficiency.
+
+👉 [View Project on GitHub](https://github.com/PatienceAnono/Customer-Marketing-Insights-Analysis)
+
 
 ### 🕵️‍♀️ Credit Card Fraud Detection  
 **Goal:** To build a robust system that identifies fraudulent credit card transactions in real-time.  
@@ -30,7 +46,7 @@ My background in **cybersecurity and data management** enables me to approach an
 
 ---
 
-### 📉 SyriaTel Customer Churn Analysis  
+### 📉 Telecom Customer Churn Analysis  
 **Goal:** To help a telecom company understand and predict customer churn to improve retention strategies.  
 **Approach:** Conducted **exploratory data analysis** and built **supervised learning models** using Python (Logistic Regression, Decision Tree). Identified the top churn drivers like customer service calls and data plans.  
 **Impact:** Provided actionable insights that could reduce churn rate by focusing on high-risk customers and service quality improvements.  
