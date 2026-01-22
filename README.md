@@ -25,7 +25,7 @@ My background in **cybersecurity and data management** enables me to approach an
 
 **Goal:** Analyze customer behavior and marketing channel performance using Google Analytics e-commerce data to provide actionable business insights.
 
-**Approach:** Performed full exploratory data analysis (EDA) in Python and Jupyter Notebook, including funnel analysis, product performance benchmarking, and conversion efficiency comparison across channels.
+**Approach:** Performed full exploratory data analysis (EDA) in Python and Jupyter Notebook, including funnel analysis, product performance benchmarking and conversion efficiency comparison across channels.
 
 **Key Insights:**
 - Email & Referral channels had higher conversion rates than high-traffic channels.
