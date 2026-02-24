@@ -21,6 +21,22 @@ With a strong foundation in cybersecurity and data management, I ensure my analy
 ---
 
 ## 💼 Featured Projects  
+### 📊 Ecommerce Commercial Performance Dashboard  
+An executive-level Power BI dashboard analyzing revenue trends, customer retention, product performance, and regional revenue contribution.
+
+🔗 View Project:  
+https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard
+
+---
+
+### 📈 Customer Retention & Revenue Growth Analysis  
+A data-driven analysis project focused on customer retention, churn patterns, and revenue growth using analytical modeling techniques.
+
+🔗 View Project:  
+https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis
+
+---
+
 ### 📊 Customer Marketing Insights Analysis
 
 **Goal:** Analyze customer behavior and marketing channel performance using Google Analytics e-commerce data to provide actionable business insights.
