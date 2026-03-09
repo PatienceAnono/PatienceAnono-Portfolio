@@ -94,22 +94,27 @@ https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis
 
 ---
 
-## 🎓 Certifications Highlights
+## 🎓 Education & Certifications
 
-- **Google Cybersecurity Professional Certificate (7 courses)**  
-  - Foundations of Cybersecurity  
-  - Managing Security Risks  
-  - Assets, Threats and Vulnerabilities  
-  - Detection and Response  
-  - Networks and Network Security  
-  - Linux and SQL  
-  - Automating Cybersecurity Tasks with Python
+### 🎓 Education
+- **BSc in Physics** — University of Nairobi  
+- **Data Science Certificate** — Moringa School  
 
+### 🔐 Cybersecurity Certifications (Google Professional Certificate)
+- Foundations of Cybersecurity  
+- Managing Security Risks  
+- Assets, Threats and Vulnerabilities  
+- Detection and Response  
+- Networks and Network Security  
+- Linux and SQL  
+- Automating Cybersecurity Tasks with Python  
+
+### 📊 Data & Technology Certifications
 - **SQL & Relational Databases 101** — Cognitive Class  
 - **Data Analysis with Python** — Cognitive Class  
 - **Hadoop 101** — Cognitive Class  
 - **Big Data 101** — Cognitive Class  
-- **Cyber Security Certificate** — Alison
+- **Cyber Security Certificate** — Alison  
 
 ---
 
