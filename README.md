@@ -1,22 +1,21 @@
 
 ![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/6475ce96bf54e6f04e085e302ad0ed6a97564976/Patience_Anono_Data_Analyst_Banner.png)
 
-# 👋 Welcome to My Data Analyst Portfolio  
+# 👋 Welcome to My Data Analytics Portfolio 
 
-Hi, I’m Patience Anono, a Data Analyst and Data Consultant dedicated to turning complex data into actionable insights that drive smarter business decisions.
+Hi, I’m Patience Anono, a Data Analyst and Data Consultant passionate about transforming raw data into actionable insights that drive smarter business decisions.
 
-I specialize in data collection, cleaning, analysis and visualization, leveraging tools like Python, SQL, Excel, Power BI and Tableau.
-With a strong foundation in cybersecurity and data management, I ensure my analyses are not only accurate but also secure and reliable.
+I specialize in data cleaning, analysis and visualization, helping organizations uncover patterns, optimize performance and make data-driven decisions. My work focuses on turning complex datasets into clear, strategic insights through dashboards, reports and analytical models.
 
 ---
 
-## 🧰 Tools & Technologies  
-- **Python**  
-- **SQL**  
-- **Power BI**  
-- **Tableau**  
-- **Excel**  
-- **GitHub**
+## 🛠 Tools & Technologies
+
+- **SQL** – Data extraction, transformation and querying  
+- **Python (Pandas, NumPy, Matplotlib)** – Data analysis and automation  
+- **Excel & Google Sheets** – Data cleaning, pivot analysis, dashboards  
+- **Power BI & Tableau** – Interactive dashboards and business intelligence  
+- **Git & GitHub** – Version control and project documentation 
 
 ---
 
@@ -100,7 +99,7 @@ https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis
 - **Google Cybersecurity Professional Certificate (7 courses)**  
   - Foundations of Cybersecurity  
   - Managing Security Risks  
-  - Assets, Threats, and Vulnerabilities  
+  - Assets, Threats and Vulnerabilities  
   - Detection and Response  
   - Networks and Network Security  
   - Linux and SQL  
@@ -116,12 +115,16 @@ https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis
 
 ## 🧩 My Approach  
 I combine **technical expertise** with **strategic thinking** to deliver insights that matter.  
-Whether it’s optimizing datasets, building dashboards or automating reports, my goal is to make data **accessible, accurate and actionable**.
+Whether it’s optimizing datasets, building dashboards or automating reports, my goal is to help businesses **leverage their data to improve performance, optimize operations and uncover growth opportunities.**
+
 
 ---
 
-## 🎯 My Mission  
-As I continue my journey toward becoming a **Data Consultant**, my mission is to help businesses harness the power of their data, ensuring **accuracy, clarity and measurable impact**.
+## 🎯 My Mission
+
+As a **Data Consultant**, my mission is to help organizations harness the power of their data to drive smarter decisions, improve operational performance and uncover new growth opportunities.
+
+Through structured data analysis, clear reporting and strategic insights, I aim to transform complex datasets into **accurate, actionable and business-focused intelligence** that delivers measurable impact.
 
 ---
 
@@ -131,4 +134,4 @@ As I continue my journey toward becoming a **Data Consultant**, my mission is to
 💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://www.linkedin.com/in/patience-anono-22ab06176/)  
 🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)  
 
-⭐️ *If you like my projects, consider starring them on GitHub!*
+💡 *Data becomes powerful when it tells a story — my goal is to help businesses understand and act on that story.*
