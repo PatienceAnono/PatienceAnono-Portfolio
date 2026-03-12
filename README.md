@@ -20,8 +20,33 @@ I specialize in data cleaning, analysis and visualization, helping organizations
 ---
 
 ## 💼 Featured Projects  
+###☕ Coffee Sales Performance Dashboard (Excel)
+
+📊 **Project Overview**
+
+This project analyzes coffee sales data using Microsoft Excel to uncover trends in sales performance, time-based revenue patterns and product demand. The dashboard uses pivot tables, calculated time fields and interactive charts to transform raw sales data into actionable insights.
+
+🔧 **Tools Used**
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data Cleaning
+- Time-based Analysis (Year / Month / Week)
+
+📈 **Key Insights**
+- Identified monthly and weekly sales trends in coffee purchases
+- Analyzed time-based revenue patterns to highlight peak sales periods
+- Used pivot tables to summarize and aggregate transactional data
+- Designed an interactive dashboard for quick performance monitoring
+
+🔗 **View Project**
+
+[Coffee Sales Dashboard Repository](https://github.com/PatienceAnono/coffee-sales-excel-dashboard)
+
+---
+
 ### 📊 Ecommerce Commercial Performance Dashboard  
-An executive-level Power BI dashboard analyzing revenue trends, customer retention, product performance, and regional revenue contribution.
+An executive-level Power BI dashboard analyzing revenue trends, customer retention, product performance and regional revenue contribution.
 
 🔗 View Project:  
 https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard
@@ -29,7 +54,7 @@ https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard
 ---
 
 ### 📈 Customer Retention & Revenue Growth Analysis  
-A data-driven analysis project focused on customer retention, churn patterns, and revenue growth using analytical modeling techniques.
+A data-driven analysis project focused on customer retention, churn patterns and revenue growth using analytical modeling techniques.
 
 🔗 View Project:  
 https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis
