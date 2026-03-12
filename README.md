@@ -20,7 +20,7 @@ I specialize in data cleaning, analysis and visualization, helping organizations
 ---
 
 ## 💼 Featured Projects  
-###☕ Coffee Sales Performance Dashboard (Excel)
+### ☕ Coffee Sales Performance Dashboard (Excel)
 
 📊 **Project Overview**
 
