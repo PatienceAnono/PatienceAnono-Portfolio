@@ -20,6 +20,14 @@ I specialize in data cleaning, analysis and visualization, helping organizations
 ---
 
 ## 💼 Featured Projects  
+
+### Website Traffic & Revenue Analysis
+Analyzed website traffic and marketing performance to uncover key revenue drivers and optimization opportunities.
+
+🔗 [View Project](https://github.com/PatienceAnono/website-traffic-analysis)
+
+---
+
 ### ☕ Coffee Sales Performance Dashboard (Excel)
 
 📊 **Project Overview**
