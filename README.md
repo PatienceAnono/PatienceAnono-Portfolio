@@ -493,40 +493,60 @@ Analyzed patient visits, satisfaction, and healthcare center performance to iden
 
 # 🧠 My Analytics Workflow
 
-```text
-Business Problem
-       ↓
-Data Collection
-       ↓
-Data Cleaning & Validation
-       ↓
-Exploratory Data Analysis
-       ↓
-Statistical / Analytical Modeling
-       ↓
-Dashboard & Visualization
-       ↓
-Business Insights
-       ↓
-Recommendations
-       ↓
+I take a structured, business-focused approach to analytics:
+
+Business Problem  
+↓  
+Data Collection  
+↓  
+Data Cleaning & Validation  
+↓  
+Exploratory Data Analysis  
+↓  
+Analytical Modeling  
+↓  
+Dashboard & Visualization  
+↓  
+Business Insights  
+↓  
+Recommendations  
+↓  
 Business Impact
 
+My goal is not simply to analyze data, but to understand the **business problem behind the data** and turn analysis into decisions that can be acted upon.
 
----
+# 🎯 My Mission
 
-## 🎯 My Mission
+As a **Data Analyst and Data Consultant**, my mission is to help organizations turn data into **clear, actionable business intelligence**.
 
-As a **Data Consultant**, my mission is to help organizations harness the power of their data to drive smarter decisions, improve operational performance and uncover new growth opportunities.
+I combine data analysis, visualization, analytical modeling, and business thinking to help organizations:
 
-Through structured data analysis, clear reporting and strategic insights, I aim to transform complex datasets into **accurate, actionable and business-focused intelligence** that delivers measurable impact.
+- 📈 Improve business and marketing performance
+- 💰 Increase revenue and optimize spending
+- 👥 Understand customers and improve retention
+- 🎯 Measure marketing effectiveness
+- 📊 Monitor KPIs and business performance
+- 🔎 Identify trends, risks, and growth opportunities
+- 🚀 Make smarter, data-driven decisions
 
----
+I believe good analytics should answer three questions:
 
-## 📫 Let’s Connect  
+> **What happened?**  
+> **Why did it happen?**  
+> **What should we do next?**
 
-📧 **Email:** [patienceanonowebbo@gmail.com](mailto:patienceanonowebbo@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://www.linkedin.com/in/patience-anono-22ab06176/)  
-🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)  
+My goal is to transform complex datasets into **accurate, understandable, actionable, and business-focused insights** that create measurable impact.
 
-💡 *Data becomes powerful when it tells a story — my goal is to help businesses understand and act on that story.*
+# 📫 Let's Connect
+
+📧 **Email:** [patienceanonowebbo@gmail.com](mailto:patienceanonowebbo@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://linkedin.com/in/patience-anono-22ab06176/)
+
+🌐 **Portfolio:** [www.padataanalytics.com](https://www.padataanalytics.com/)
+
+🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)
+
+### 💡 Data becomes powerful when it tells a story.
+
+**I help businesses understand that story, turn it into actionable insights, and make better decisions.**
