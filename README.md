@@ -221,7 +221,7 @@ under the project's assumptions.
 
 > Are we giving marketing credit — and therefore budget — to the channels that actually contribute to revenue?
 
-🔗 **[View Attribution Project](https://github.com/PatienceAnono)**
+🔗 **[View Attribution Project](https://github.com/PatienceAnono/multi-touch-attribution-budget-optimisation)**
 
 ---
 
@@ -256,7 +256,7 @@ The analysis focused on identifying:
 - Campaign trends
 - Budget optimization opportunities
 
-🔗 **[View Advertising Analytics Project](https://github.com/PatienceAnono)**
+🔗 **[View Advertising Analytics Project](https://github.com/PatienceAnono/ecommerce-ad-campaign-performance-analysis)**
 
 ---
 
@@ -283,7 +283,7 @@ The analysis also evaluated acquisition channel quality, engagement, and funnel 
 
 Identified conversion bottlenecks and opportunities to improve checkout performance and overall e-commerce conversion.
 
-🔗 **[View Funnel Analysis Project](https://github.com/PatienceAnono)**
+🔗 **[View Funnel Analysis Project](https://github.com/PatienceAnono/ecommerce-funnel-analysis-ga4)**
 
 ---
 
@@ -313,7 +313,7 @@ Statistical testing was used to evaluate whether observed differences were meani
 
 > Did the new campaign actually perform better, or could the difference be random?
 
-🔗 **[View A/B Testing Project](https://github.com/PatienceAnono)**
+🔗 **[View A/B Testing Project](https://github.com/PatienceAnono/email-marketing-ab-testing-conversion-optimisation)**
 
 ---
 
@@ -387,7 +387,7 @@ The resulting customer risk scores were visualized in Power BI to help identify 
 
 > Which customers are most likely to leave, and where should retention efforts be prioritized?
 
-🔗 **[View Churn Intelligence Project](https://github.com/PatienceAnono)**
+🔗 **[View Churn Intelligence Project](https://github.com/PatienceAnono/customer-retention-intelligence-churn-prediction)**
 
 ---
 
@@ -427,7 +427,7 @@ The segmentation framework can support:
 - Upselling
 - Personalized marketing
 
-🔗 **[View Customer Segmentation Project](https://github.com/PatienceAnono)**
+🔗 **[View Customer Segmentation Project](https://github.com/PatienceAnono/ecommerce-customer-segmentation)**
 
 ---
 
@@ -447,7 +447,7 @@ Analyzed **2,810 customers and 6,404 orders** across a 15-month Shopify customer
 
 > Are we growing through new customers, or are customers actually coming back?
 
-🔗 **[View Cohort Analysis Project](https://github.com/PatienceAnono)**
+🔗 **[View Cohort Analysis Project](https://github.com/PatienceAnono/ecommerce-cohort-retention-analysis)**
 
 ---
 
