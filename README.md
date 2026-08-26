@@ -32,7 +32,7 @@ I use **Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling** t
 
 # 🚀 About Me
 
-I am a **Marketing & Data Analytics Consultant at PA Data Analytics**, working across marketing measurement, customer analytics, revenue intelligence, and business performance.
+I am a **Marketing & Data Analytics Consultant at PA Data Analytics**, working across marketing measurement, customer analytics, revenue intelligence and business performance.
 
 My strongest areas include:
 
@@ -177,7 +177,7 @@ The model identified a potential **$58K incremental revenue opportunity** throug
 
 > How should the marketing budget be allocated to maximize revenue?
 
-🔗 **[View MMM Project](https://github.com/PatienceAnono)**
+🔗 **[View MMM Project]([https://github.com/PatienceAnono](https://github.com/PatienceAnono/Marketing-Mix-Modelling-ROI-Analysis))**
 
 ---
 
