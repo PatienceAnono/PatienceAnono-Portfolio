@@ -177,7 +177,7 @@ The model identified a potential **$58K incremental revenue opportunity** throug
 
 > How should the marketing budget be allocated to maximize revenue?
 
-🔗 **[View MMM Project]([https://github.com/PatienceAnono](https://github.com/PatienceAnono/Marketing-Mix-Modelling-ROI-Analysis))**
+🔗 **[View MMM Project](https://github.com/PatienceAnono/Marketing-Mix-Modelling-ROI-Analysis)**
 
 ---
 
