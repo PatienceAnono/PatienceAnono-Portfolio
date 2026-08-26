@@ -1,5 +1,7 @@
 
-![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-# 👋 Hi, I'm Patience Anono
+![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-
+
+# 👋 Hi, I'm Patience Anono
 
 ### Marketing Data Analyst | Marketing Science | Growth & Customer Analytics
 
