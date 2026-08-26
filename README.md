@@ -1,5 +1,7 @@
 
-![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-
+<p align="center">
+  <img src="./portfolio-banner.png" alt="Patience Anono - Marketing & Data Analytics Portfolio" width="100%">
+</p>
 
 # 👋 Hi, I'm Patience Anono
 
