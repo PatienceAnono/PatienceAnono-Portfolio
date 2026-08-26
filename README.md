@@ -1,176 +1,211 @@
 
-![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/6475ce96bf54e6f04e085e302ad0ed6a97564976/Patience_Anono_Data_Analyst_Banner.png)
+![Patience Anono Data Analyst Portfolio Banner](https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-# 👋 Hi, I'm Patience Anono
 
-# 👋 Welcome to My Data Analytics Portfolio 
-# Hi, I'm Patience Anono 👋
+### Marketing Data Analyst | Marketing Science | Growth & Customer Analytics
 
-### Data Analyst | Marketing Analytics | Customer Analytics | Business Intelligence
+I help businesses turn marketing, customer and revenue data into insights that improve **marketing effectiveness, customer retention, revenue growth and business performance**.
 
-I help businesses turn data into actionable insights that improve **marketing performance, customer retention, revenue growth, and business decision-making**.
+My work sits at the intersection of **marketing analytics, statistical modeling, customer analytics and business intelligence**.
 
-My work combines **SQL, Python, Power BI, Excel, BigQuery, GA4, and statistical modeling** to solve real-world business problems across marketing, e-commerce, SaaS, customer analytics, and business intelligence.
+I use **Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling** to answer questions such as:
 
-My approach is simple:
+- Which marketing channels are actually driving incremental revenue?
+- How should marketing budgets be allocated?
+- Where are customers dropping out of the funnel?
+- Which customers are most likely to churn?
+- Which customer segments are most valuable?
+- Which campaigns and experiments are producing better results?
+- Where is revenue at risk?
+- What should the business do next?
 
-**Business Problem → Data → Analysis → Dashboard → Insight → Action**
+**Business Problem → Data → Analysis → Insight → Recommendation → Business Impact**
 
 🌐 **[Portfolio Website](https://www.padataanalytics.com/)**  
 💼 **[LinkedIn](https://linkedin.com/in/patience-anono-22ab06176/)**  
-🐙 **[GitHub](https://github.com/PatienceAnono)**
+📧 **[Email](mailto:patienceanonowebbo@gmail.com)**
 
 ---
 
 # 🚀 About Me
 
-I'm a Data Analyst and Data Consultant focused on using data to answer important business questions.
+I am a **Marketing & Data Analytics Consultant at PA Data Analytics**, working across marketing measurement, customer analytics, revenue intelligence, and business performance.
 
-I specialize in:
+My strongest areas include:
 
-- Marketing & Growth Analytics
-- Customer & Revenue Analytics
-- SaaS Analytics
-- E-commerce Analytics
-- Marketing Attribution
+- Marketing Mix Modeling (MMM)
+- Multi-Touch Attribution
+- Marketing Performance Analytics
+- Marketing ROI & ROAS
 - Customer Segmentation
-- Churn & Retention Analysis
+- Churn & Retention Analytics
+- Marketing Funnel Analysis
 - A/B Testing & Experimentation
+- SaaS Revenue Analytics
+- E-commerce Analytics
 - Business Intelligence
-- Dashboard Development
-- KPI & Performance Reporting
+- Executive Dashboards & KPI Reporting
 
-I enjoy working across the full analytics lifecycle — from cleaning and transforming raw data to building analytical models, developing dashboards, identifying patterns, and translating findings into business recommendations.
+I enjoy going beyond reporting **what happened** to understand **why it happened and what the business should do next**.
 
 ---
 
-# 📊 What I Analyze
+# 📊 Core Analytics Areas
 
-### 🎯 Marketing & Growth
+## 🎯 Marketing & Growth Analytics
 
-- Paid advertising performance
-- Marketing attribution
 - Marketing Mix Modeling
-- ROAS
-- Customer acquisition
-- Campaign performance
-- Marketing funnels
-- A/B testing
-- Conversion optimization
-- Customer journeys
+- Multi-Touch Attribution
+- Campaign Performance
+- Paid Advertising Analytics
+- ROAS & ROI Analysis
+- Budget Allocation
+- Customer Acquisition
+- Marketing Funnel Analysis
+- Conversion Rate Analysis
+- A/B Testing
+- Customer Journey Analysis
 
-### 👥 Customer Analytics
+## 👥 Customer Analytics
 
-- Customer segmentation
-- RFM analysis
-- K-Means clustering
-- Customer retention
-- Churn prediction
-- Cohort analysis
-- Customer lifetime value
-- Customer behavior
+- Customer Segmentation
+- RFM Analysis
+- K-Means Clustering
+- Churn Prediction
+- Retention Analysis
+- Cohort Analysis
+- Customer Lifetime Value
+- Customer Behavior Analysis
+- Customer Health Scoring
 
-### 💰 Revenue & SaaS Analytics
+## 💰 Revenue & SaaS Analytics
 
-- MRR & ARR
-- Revenue growth
-- Revenue concentration
-- Customer profitability
-- Churn & retention
-- Revenue at risk
-- Product engagement
-- SaaS performance
+- MRR & ARR Analysis
+- Revenue Growth
+- Revenue Concentration
+- Revenue at Risk
+- Customer Retention
+- Churn & Downgrade Analysis
+- Product Engagement
+- SaaS Revenue Health
 
-### 📊 Business Intelligence
+## 📈 Business Intelligence
 
-- Executive dashboards
-- Operational reporting
-- KPI tracking
-- Performance monitoring
-- Excel dashboards
-- Power BI dashboards
-- Data storytelling
+- Executive Dashboards
+- KPI Reporting
+- Performance Monitoring
+- Commercial Analytics
+- Operational Reporting
+- Power BI Dashboards
+- Excel Dashboards
+- Data Storytelling
 
 ---
 
 # 🛠️ Technical Skills
 
-## Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Programming & Data Analysis
 
 - Python
 - Pandas
 - NumPy
+- Scikit-learn
+- Statsmodels
+- XGBoost
+- SciPy
+- Jupyter Notebook
+
+### SQL & Data Warehousing
+
 - SQL
-- Statistical Analysis
-- Exploratory Data Analysis
+- MySQL
+- Google BigQuery
 - Data Cleaning
-- Feature Engineering
-- Machine Learning
+- Data Transformation
+- Aggregations
+- Exploratory Data Analysis
 
-## Business Intelligence & Visualization
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### Business Intelligence & Visualization
 
 - Power BI
-- Tableau
-- Microsoft Excel
 - DAX
 - Power Query
+- Tableau
+- Excel
 - Pivot Tables
-- Dashboard Development
-- Data Visualization
+- Looker Studio
 - KPI Design
+- Dashboard Development
 
-## Analytics Platforms
-
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+### Marketing Analytics Platforms
 
 - Google Analytics 4
 - Google BigQuery
-- Google Sheets
-- Marketing Analytics Platforms
-- SQL Databases
+- Google Tag Manager
+- Google Ads
+- Meta Ads
+- Digital Advertising Analytics
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Featured Marketing Analytics Projects
 
-## 1. 🎯 Multi-Touch Attribution & Budget Optimization
+## 1. 🎯 Marketing Mix Modeling — Multi-Channel Budget Optimization
 
-**Python | Marketing Analytics | Attribution | ROAS | Budget Optimization**
+**Python | Statsmodels | OLS Regression | Adstock | Power BI**
 
-Built a multi-touch attribution framework analyzing:
+Built an OLS-based Marketing Mix Model to evaluate how marketing investment contributed to revenue across multiple channels.
 
-- **11,292 touchpoints**
-- **3,500 customers**
-- **7 marketing channels**
+### Analysis
 
-Implemented and compared:
+- Modeled 52 weeks of marketing and revenue data
+- Applied adstock/carryover transformations
+- Decomposed revenue into base demand and channel contribution
+- Evaluated channel-level efficiency
+- Built budget reallocation scenarios
+
+### Key Result
+
+**$722K revenue analyzed**
+
+The model identified a potential **$58K incremental revenue opportunity** through modeled budget reallocation at equivalent total spend.
+
+### Business Question
+
+> How should the marketing budget be allocated to maximize revenue?
+
+🔗 **[View MMM Project](https://github.com/PatienceAnono)**
+
+---
+
+# 2. 🎯 Multi-Touch Attribution & Budget Optimization
+
+**Python | SQL | Excel | Power BI | Marketing Attribution**
+
+Built and compared five attribution methodologies across customer journeys:
 
 - Last Click
 - First Click
 - Linear
 - Time Decay
-- Shapley Data-Driven Attribution
+- Shapley / Data-Driven Attribution
 
-### Key Findings
+### Dataset
 
-The analysis demonstrated how attribution methodology can dramatically change perceived channel performance and marketing budget allocation.
+- **11,292 touchpoints**
+- **3,500 customers**
+- **7 marketing channels**
 
-A Shapley-based allocation produced a projected:
+### Key Finding
 
-**$203,603 revenue per campaign**
+Different attribution methodologies produced substantially different views of channel performance and therefore different implied marketing budget allocations.
+
+A Shapley-based allocation produced projected revenue of approximately:
+
+**$203,603 per campaign**
 
 compared with:
 
-**$110,587 under Last Click allocation**
+**$110,587 under Last Click**
 
 A directional annualized difference of approximately:
 
@@ -178,21 +213,21 @@ A directional annualized difference of approximately:
 
 under the project's assumptions.
 
-### Business Impact
+### Business Question
 
-Demonstrated that attribution model selection is not simply a reporting decision — it can materially influence marketing investment and projected revenue.
+> Are we giving marketing credit — and therefore budget — to the channels that actually contribute to revenue?
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+🔗 **[View Attribution Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 2. 📣 E-Commerce Ad Campaign Performance Analysis
+# 3. 📣 E-Commerce Advertising Performance Analysis
 
-**Python | Excel | Power BI | Paid Advertising Analytics**
+**Python | Excel | Power BI | Paid Media Analytics**
 
-Analyzed paid advertising performance to understand where marketing spend was generating results and where optimization opportunities existed.
+Analyzed digital advertising performance across campaigns and channels to identify inefficient spend and opportunities to improve marketing efficiency.
 
-### Analysis Included
+### Metrics Analyzed
 
 - Impressions
 - Clicks
@@ -206,60 +241,53 @@ Analyzed paid advertising performance to understand where marketing spend was ge
 
 ### Workflow
 
-**Raw Campaign Data → Cleaning → KPI Calculation → Campaign Analysis → Visualization → Recommendations**
+**Raw Campaign Data → Data Cleaning → KPI Calculation → Campaign Analysis → Visualization → Recommendations**
 
-The project focused on identifying high-performing campaigns, inefficient spend, performance trends, and opportunities to improve marketing ROI.
+The analysis focused on identifying:
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+- High-performing campaigns
+- Inefficient advertising spend
+- Channel performance differences
+- ROAS opportunities
+- Campaign trends
+- Budget optimization opportunities
+
+🔗 **[View Advertising Analytics Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 3. 💳 SaaS Revenue & Churn Intelligence
+# 4. 🛒 E-Commerce Funnel & Conversion Analytics
 
-**Python | SQL | Looker Studio | SaaS Analytics**
+**GA4 | BigQuery | SQL | Python | Power BI**
 
-End-to-end analytics project evaluating the financial and customer health of a subscription SaaS business using **86,000+ records** across six relational datasets.
+Analyzed GA4 e-commerce data to understand how users progressed through the digital purchase funnel.
 
-### Analyzed
+### Dataset
 
-- Monthly Recurring Revenue
-- Customer retention
-- Churn
-- Product engagement
-- Acquisition
-- Support interactions
-- Revenue concentration
-- Revenue at risk
+- **270,154 unique users**
+- **354,970 sessions**
+- **$362.1K revenue**
+- **$63.63 average order value**
 
-### Key Findings
+### Key Finding
 
-**MRR**
+Approximately **40.8% of users dropped off at the payment stage**.
 
-$1,832 → **$416,815**
-
-from January 2022 to December 2024.
-
-**Enterprise customers**
-
-28% of the customer base generated approximately **65% of MRR**.
-
-**Product engagement**
-
-Product usage declined significantly before customers cancelled.
+The analysis also evaluated acquisition channel quality, engagement, and funnel progression.
 
 ### Business Impact
 
-Identified leading indicators of churn and quantified revenue exposure to support targeted retention strategies.
+Identified conversion bottlenecks and opportunities to improve checkout performance and overall e-commerce conversion.
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+🔗 **[View Funnel Analysis Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 4. 🧪 Email Marketing A/B Testing & Conversion Optimization
+# 5. 🧪 Email Marketing A/B Testing
 
-**Python | Experimentation | Marketing Analytics**
+**Python | Statistical Testing | Marketing Analytics**
 
-Analyzed an email marketing experiment to determine whether a new campaign variant improved engagement and conversion.
+Analyzed an email marketing experiment to determine whether a new campaign variant improved customer engagement and conversion.
 
 ### Results
 
@@ -275,108 +303,153 @@ Analyzed an email marketing experiment to determine whether a new campaign varia
 
 0.59% → **1.76%**
 
-### Business Impact
+Statistical testing was used to evaluate whether observed differences were meaningful before translating the results into marketing recommendations.
 
-Translated experimental results into marketing recommendations and estimated potential revenue impact from scaling the winning variant.
+### Business Question
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+> Did the new campaign actually perform better, or could the difference be random?
 
----
-
-# 5. 🛒 E-Commerce Funnel & Conversion Analytics
-
-**GA4 | BigQuery | SQL | Power BI**
-
-Analyzed the GA4 Sample E-commerce dataset to understand customer behavior throughout the digital purchase funnel.
-
-### Dataset Metrics
-
-- **270,154 unique users**
-- **354,970 sessions**
-- **$362.1K revenue**
-- **$63.63 average order value**
-
-### Key Finding
-
-Approximately **40.8% of users dropped off at the payment stage**.
-
-### Business Impact
-
-Identified funnel friction and opportunities to improve checkout conversion and overall e-commerce performance.
-
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+🔗 **[View A/B Testing Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 6. 👥 RFM Customer Segmentation & K-Means
+# 6. 💳 SaaS Revenue Health & Churn Intelligence
 
-**Python | RFM | K-Means | Customer Analytics**
+**Python | SQL | BigQuery | Looker Studio | SaaS Analytics**
 
-Analyzed **8,400 customers** using RFM analysis and K-Means clustering to identify customer groups based on purchasing behavior and value.
+Built an end-to-end SaaS revenue and customer health analysis using **86,000+ records** across multiple relational datasets.
+
+### Analyzed
+
+- Monthly Recurring Revenue
+- Customer retention
+- Churn
+- Downgrades
+- Product engagement
+- Acquisition
+- Support interactions
+- Revenue concentration
+- Revenue at risk
+
+### Key Results
+
+MRR increased from:
+
+**$1,832 → $416,815**
+
+from January 2022 to December 2024.
+
+Enterprise customers represented approximately:
+
+**28% of customers → 65% of MRR**
+
+The analysis identified **$114K in MRR at risk across 463 customers**.
+
+### Business Impact
+
+Identified leading indicators of customer churn and revenue exposure to support targeted retention strategies.
+
+🔗 **[View SaaS Revenue Health Project](https://github.com/PatienceAnono/saas-revenue-health-churn-intelligence-dashboard)**
+
+---
+
+# 7. 🧠 Customer Churn Prediction
+
+**Python | XGBoost | Scikit-learn | Feature Engineering | Power BI**
+
+Built a binary churn prediction model using behavioral and customer-level features.
+
+### Approach
+
+- Data cleaning
+- Exploratory analysis
+- Feature engineering
+- Model development
+- Model evaluation
+- Risk scoring
+- Dashboard visualization
+
+### Results
+
+**12,000 customer records**
+
+**18 engineered behavioral features**
+
+**0.91 AUC-ROC**
+
+The resulting customer risk scores were visualized in Power BI to help identify customers requiring retention attention.
+
+### Business Question
+
+> Which customers are most likely to leave, and where should retention efforts be prioritized?
+
+🔗 **[View Churn Intelligence Project](https://github.com/PatienceAnono)**
+
+---
+
+# 8. 👥 RFM Customer Segmentation & K-Means
+
+**Python | Pandas | Scikit-learn | RFM | K-Means | Power BI**
+
+Segmented **8,400 customers** using RFM analysis and K-Means clustering.
+
+### Customer Segments
+
+- Champions
+- Loyal Customers
+- At-Risk Customers
+- Hibernating Customers
+- Other behavioral segments
 
 ### Key Finding
 
-**Champions represented approximately 18% of customers while generating 54% of revenue.**
+Champions represented approximately:
+
+**18% of customers → 54% of revenue**
+
+At-Risk customers represented approximately:
+
+**22% of the customer base**
+
+with approximately **$127K in potentially recoverable revenue**.
 
 ### Business Applications
 
-Used customer segments to identify opportunities for:
+The segmentation framework can support:
 
-- Retention
-- Reactivation
+- Retention campaigns
+- Win-back campaigns
 - Cross-selling
 - Upselling
 - Personalized marketing
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+🔗 **[View Customer Segmentation Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 7. 📈 Shopify Cohort Retention Analysis
+# 9. 📈 Shopify Cohort Retention Analysis
 
-**Shopify | Python | Cohort Analysis | Customer Retention**
+**Python | Shopify Data | Cohort Analysis | Customer Retention**
 
 Analyzed **2,810 customers and 6,404 orders** across a 15-month Shopify customer cohort.
 
 ### Key Findings
 
 - Approximately **62% of customers did not return after their first purchase**
-- Average Month 1 retention was approximately **37.9%**
-- Analyzed approximately **$401K in revenue**
+- Month 1 retention was approximately **37.9%**
+- Approximately **$401K in revenue** analyzed
 
-### Business Impact
+### Business Question
 
-Identified customer retention patterns and opportunities to improve repeat purchases and customer lifetime value.
+> Are we growing through new customers, or are customers actually coming back?
 
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
-
----
-
-# 8. 📊 Marketing Mix Modeling
-
-**Python | Statistical Modeling | Marketing Analytics**
-
-Built a Marketing Mix Model covering **January 2023 – December 2024** to evaluate how marketing investment contributed to revenue.
-
-### Key Results
-
-**Modeled Revenue:** $20.2M
-
-**Marketing Spend:** $1.98M
-
-**Blended ROAS:** **11.52x**
-
-### Business Impact
-
-Evaluated channel contribution and provided a framework for making more informed marketing budget allocation decisions.
-
-🔗 **[View GitHub Projects](https://github.com/PatienceAnono)**
+🔗 **[View Cohort Analysis Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 9. 📊 E-Commerce Commercial Performance Dashboard
+# 10. 📊 E-Commerce Commercial Performance Dashboard
 
-**Power BI | Business Intelligence | E-commerce Analytics**
+**Power BI | DAX | Business Intelligence | E-commerce Analytics**
 
 Built an executive-level Power BI dashboard to monitor commercial performance.
 
@@ -389,100 +462,75 @@ Built an executive-level Power BI dashboard to monitor commercial performance.
 - Customer contribution
 - Commercial KPIs
 
-The dashboard was designed to help business leaders quickly understand performance and identify areas requiring attention.
+The dashboard was designed to move beyond static reporting and help decision-makers quickly identify performance changes and areas requiring attention.
 
-🔗 **[View Project](https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard)**
+🔗 **[View Power BI Project](https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard)**
 
 ---
 
-# 10. 📈 Business Performance Intelligence Dashboard
+# 11. 📊 Business Performance Intelligence Dashboard
 
-**Excel | Business Analytics | KPI Reporting | Dashboard Design**
+**Excel | Business Analytics | KPI Reporting**
 
-Designed a business performance dashboard to help business owners answer common questions such as:
+Designed a practical business performance dashboard answering questions such as:
 
-- Why are sales dropping?
-- How is the business performing?
+- Why are sales changing?
 - Which products generate the most revenue?
 - Which periods perform best?
-- What are the key business KPIs?
+- What are the most important KPIs?
+- Where are performance problems emerging?
 
-The solution combines automated calculations, KPI tracking, trend analysis, and visual reporting into a practical business performance tool.
+The solution combines automated calculations, KPI tracking, trend analysis, and visual reporting.
 
-🔗 **[View My GitHub](https://github.com/PatienceAnono)**
+🔗 **[View Project](https://github.com/PatienceAnono)**
 
 ---
 
-# 11. 📊 Customer Retention & Revenue Growth Analysis
+# 📚 Additional Analytics Projects
 
+### Customer Retention & Revenue Growth Analysis
 **Python | Customer Analytics | Revenue Analysis**
 
 Analyzed customer behavior, retention patterns, churn, and revenue growth to identify opportunities for improving customer value and long-term revenue.
 
 🔗 **[View Project](https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis)**
 
----
-
-# 12. ☕ Coffee Sales Performance Dashboard
-
+### ☕ Coffee Sales Performance Dashboard
 **Excel | Pivot Tables | Dashboard | Sales Analytics**
 
-Built an interactive Excel dashboard analyzing:
-
-- Sales trends
-- Monthly revenue
-- Weekly performance
-- Product demand
-- Peak sales periods
+Built an interactive dashboard analyzing sales trends, monthly revenue, weekly performance, product demand, and peak sales periods.
 
 🔗 **[View Project](https://github.com/PatienceAnono/coffee-sales-excel-dashboard)**
 
----
-
-# 🔍 Additional Projects
-
-## 🕵️ Credit Card Fraud Detection
-
+### 🕵️ Credit Card Fraud Detection
 **Python | Machine Learning | XGBoost | Random Forest**
 
-Built machine learning models to identify fraudulent credit card transactions using an imbalanced dataset.
+Built machine learning models to identify fraudulent transactions using an imbalanced dataset.
 
 🔗 **[View Project](https://github.com/PatienceAnono/Credit-Card-Fraud-Dectection)**
 
----
-
-## 📞 Telecom Customer Churn Analysis
-
+### 📞 Telecom Customer Churn Analysis
 **Python | Machine Learning | Customer Analytics**
 
-Analyzed telecom customer churn patterns and built predictive models to identify key churn drivers.
+Analyzed telecom customer churn patterns and developed predictive models to identify important churn drivers.
 
 🔗 **[View Project](https://github.com/PatienceAnono/-SyriaTel-Customer-Churn-Project)**
 
----
-
-## 👩‍💼 HR Data Analysis
-
+### 👩‍💼 HR Data Analysis
 **SQL | Power BI | Business Intelligence**
 
-Used SQL for data cleaning and analysis and developed an interactive Power BI dashboard to evaluate workforce KPIs.
+Used SQL for data cleaning and analysis and developed a Power BI dashboard to evaluate workforce KPIs.
 
 🔗 **[View Project](https://github.com/PatienceAnono/HR-DATA-ANALYSIS)**
 
----
-
-## 🌾 Food Security Monitoring
-
+### 🌾 Food Security Monitoring
 **Tableau | Data Visualization**
 
 Built an interactive Tableau dashboard analyzing food security indicators including food access, household income, and malnutrition.
 
 🔗 **[View Tableau Dashboard](https://public.tableau.com/app/profile/patience5611/viz/KaramojaRegionFoodmonitoringtool/SummaryTable)**
 
----
-
-## 🩺 Healthcare Data Analysis
-
+### 🩺 Healthcare Data Analysis
 **Python | Data Analysis | Data Visualization**
 
 Analyzed patient visits, satisfaction, and healthcare center performance to identify operational and service delivery insights.
@@ -493,49 +541,77 @@ Analyzed patient visits, satisfaction, and healthcare center performance to iden
 
 # 🧠 My Analytics Workflow
 
-I take a structured, business-focused approach to analytics:
+I use a structured, business-focused approach:
 
-Business Problem  
+**Business Problem**  
 ↓  
-Data Collection  
+**Data Collection**  
 ↓  
-Data Cleaning & Validation  
+**Data Cleaning & Validation**  
 ↓  
-Exploratory Data Analysis  
+**Exploratory Data Analysis**  
 ↓  
-Analytical Modeling  
+**Statistical / Analytical Modeling**  
 ↓  
-Dashboard & Visualization  
+**Dashboard & Visualization**  
 ↓  
-Business Insights  
+**Business Insights**  
 ↓  
-Recommendations  
+**Recommendations**  
 ↓  
-Business Impact
+**Business Impact**
 
-My goal is not simply to analyze data, but to understand the **business problem behind the data** and turn analysis into decisions that can be acted upon.
+I don't believe analytics should stop at a dashboard.
 
-# 🎯 My Mission
+The goal is to connect analysis to a decision.
 
-As a **Data Analyst and Data Consultant**, my mission is to help organizations turn data into **clear, actionable business intelligence**.
+---
 
-I combine data analysis, visualization, analytical modeling, and business thinking to help organizations:
+# 🎯 What I Bring
 
-- 📈 Improve business and marketing performance
-- 💰 Increase revenue and optimize spending
-- 👥 Understand customers and improve retention
-- 🎯 Measure marketing effectiveness
-- 📊 Monitor KPIs and business performance
-- 🔎 Identify trends, risks, and growth opportunities
-- 🚀 Make smarter, data-driven decisions
+I combine technical analytics skills with business thinking to help organizations:
 
-I believe good analytics should answer three questions:
+📈 Improve marketing performance  
+💰 Optimize marketing spend and revenue  
+🎯 Measure campaign effectiveness  
+👥 Understand customers and improve retention  
+📊 Build decision-ready dashboards  
+🔎 Identify risks and growth opportunities  
+🧪 Evaluate experiments and campaigns  
+🚀 Turn data into practical business decisions
 
-> **What happened?**  
-> **Why did it happen?**  
+My analytics philosophy is simple:
+
+> **What happened?**
+
+> **Why did it happen?**
+
 > **What should we do next?**
 
-My goal is to transform complex datasets into **accurate, understandable, actionable, and business-focused insights** that create measurable impact.
+---
+
+# 🎓 Education
+
+### University of Nairobi
+**BSc Physics — Electronics & Microprocessing**  
+2014 – 2018
+
+### Moringa School
+**Data Science Certificate**  
+2022 – 2023
+
+---
+
+# 📜 Certifications
+
+- Google Analytics 4 — Google Skillshop
+- SQL & Relational Databases — IBM
+- Digital Marketing — HubSpot Academy
+- SEO Certification — HubSpot Academy
+- Google Cybersecurity Professional Certificate
+- Network Support — Cisco Academy
+
+---
 
 # 📫 Let's Connect
 
@@ -547,6 +623,8 @@ My goal is to transform complex datasets into **accurate, understandable, action
 
 🐙 **GitHub:** [github.com/PatienceAnono](https://github.com/PatienceAnono)
 
+---
+
 ### 💡 Data becomes powerful when it tells a story.
 
-**I help businesses understand that story, turn it into actionable insights, and make better decisions.**
+**I help businesses understand that story, turn it into actionable insights, and make better decisions.**into actionable insights, and make better decisions.**
