@@ -621,7 +621,7 @@ My analytics philosophy is simple:
 
 📧 **Email:** [patienceanonowebbo@gmail.com](mailto:patienceanonowebbo@gmail.com)
 
-💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://linkedin.com/in/patience-anono-22ab06176/)
+💼 **LinkedIn:** [linkedin.com/in/patience-anono-22ab06176](https://www.linkedin.com/in/patience-anono/)
 
 🌐 **Portfolio:** [www.padataanalytics.com](https://www.padataanalytics.com/)
 
