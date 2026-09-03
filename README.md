@@ -632,3 +632,5 @@ My analytics philosophy is simple:
 ### 💡 Data becomes powerful when it tells a story.
 
 **I help businesses understand that story, turn it into actionable insights, and make better decisions.**into actionable insights and make better decisions.**
+
+
