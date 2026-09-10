@@ -20,7 +20,7 @@ I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to an
 Business Problem → Data → Analysis → Insight → Recommendation → Business Impact
 
 🌐 [Portfolio Website](https://www.padataanalytics.com/)
-💼 [LinkedIn](https://linkedin.com/in/patience-anono-22ab06176/)
+💼 [LinkedIn](https://www.linkedin.com/in/patience-anono)
 📧 [Email](mailto:patienceanonowebbo@gmail.com)
 
 ## 🚀 About Me
@@ -149,7 +149,7 @@ Built an OLS-based Marketing Mix Model to evaluate how marketing investment cont
 * Built budget reallocation scenarios
 
 **Key Result**
-$20.22M in revenue modeled against $1.98M in tracked marketing spend, for a blended ROAS of 11.52x. Reallocating budget within the model's estimated channel efficiency curves — at equivalent total spend — pointed to a projected annual revenue uplift of approximately **+$461,310**.
+$20.22M in revenue modeled against $1.98M in tracked marketing spend, for a blended ROAS of 11.52x. Reallocating budget within the model's estimated channel efficiency curves at equivalent total spend, pointed to a projected annual revenue uplift of approximately **+$461,310**.
 
 **Business Question**
 How should the marketing budget be allocated to maximize revenue?
@@ -174,10 +174,10 @@ Built and compared five attribution methodologies across customer journeys:
 * $229,294.41 in attributed revenue
 
 **Key Finding**
-Comparing the five attribution methodologies produced materially different views of which channels deserve credit — and therefore different implied marketing budget allocations. The choice of attribution model is not a technicality; it directly changes which channels look like they are driving revenue.
+Comparing the five attribution methodologies produced materially different views of which channels deserve credit  and therefore different implied marketing budget allocations. The choice of attribution model is not a technicality; it directly changes which channels look like they are driving revenue.
 
 **Business Question**
-Are we giving marketing credit — and therefore budget — to the channels that actually contribute to revenue?
+Are we giving marketing credit  and therefore budget to the channels that actually contribute to revenue?
 
 🔗 [View Attribution Project](https://github.com/PatienceAnono/multi-touch-attribution-budget-optimisation)
 
@@ -208,7 +208,7 @@ Identified leading indicators of customer churn and revenue exposure to support 
 ### 4. 📈 Website Traffic & Revenue Analysis
 Python | GA4-style Web Analytics | Power BI | Correlation Analysis
 
-Analyzed website traffic and revenue data to understand how session volume, conversion behavior and revenue moved together — and where they didn't.
+Analyzed website traffic and revenue data to understand how session volume, conversion behavior and revenue moved together and where they didn't.
 
 **Dataset**
 * 1,274 records analyzed
@@ -221,7 +221,7 @@ Analyzed website traffic and revenue data to understand how session volume, conv
 Sessions showed almost no linear relationship with revenue (r = 0.012), while sessions showed a moderate negative relationship with conversion rate (r = -0.640) — indicating that higher-traffic periods were not converting as efficiently as lower-traffic periods.
 
 **Business Question**
-Is site traffic growth translating into proportional revenue growth, or are higher-volume periods converting less efficiently?
+Is site traffic growth translating into proportional revenue growth or are higher-volume periods converting less efficiently?
 
 🔗 [View Website Traffic Analysis Project](https://github.com/PatienceAnono/website-traffic-analysis)
 
