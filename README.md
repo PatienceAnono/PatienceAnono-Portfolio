@@ -360,8 +360,8 @@ Data Science Certificate
 
 ## 📫 Let's Connect
 
-📧 Email: [patienceanonowebbo@gmail.com](mailto:patienceanonowebbo@gmail.com)
-💼 LinkedIn: [linkedin.com/in/patience-anono-22ab06176](https://www.linkedin.com/in/patience-anono/)
+📧 Email: [anonopatience@gmail.com](mailto:anonopatience@gmail.com)
+💼 LinkedIn: [linkedin.com/in/patience-anono/](https://www.linkedin.com/in/patience-anono/)
 🌐 Portfolio: [www.padataanalytics.com](https://www.padataanalytics.com)
 🐙 GitHub: [github.com/PatienceAnono](https://github.com/PatienceAnono)
 
