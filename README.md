@@ -110,10 +110,20 @@ I enjoy going beyond reporting what happened to understand why it happened and w
 * SQL
 * MySQL
 * Google BigQuery
+* SQLite
+* ETL & Data Transformation
 * Data Cleaning
 * Data Transformation
 * Aggregations
 * Exploratory Data Analysis
+
+**Web Scraping & Data Engineering**
+* Requests
+* BeautifulSoup
+* Web Scraping
+* Pagination Handling
+* Data Validation
+* CSV & SQLite Pipelines
 
 **Business Intelligence & Visualization**
 * Power BI
@@ -263,6 +273,23 @@ The segmentation framework can support retention campaigns, win-back campaigns, 
 🔗 [View Customer Segmentation Project](https://github.com/PatienceAnono/ecommerce-customer-segmentation)
 
 ## 📚 Additional Projects
+
+**🕸️ E-Commerce Web Scraper & ETL Pipeline** — Python | Requests | BeautifulSoup | Pandas | SQLite | SQL
+
+Built an end-to-end ETL workflow that extracts product and product-detail data from Books to Scrape, transforms and validates the dataset, loads it into SQLite, and prepares it for SQL and exploratory analysis.
+
+**Project Results**
+* 50 catalogue pages scraped
+* 1,000 products extracted
+* 16 fields collected per product
+* 50 categories represented
+* 0 duplicate product URLs
+* 0 invalid ratings
+* 0 invalid prices
+
+The project demonstrates reusable web-scraping functions, pagination handling, data cleaning, validation, CSV storage, SQLite loading, SQL analysis, and Jupyter-based exploration.
+
+🔗 [View E-Commerce Web Scraper & ETL Project](https://github.com/PatienceAnono/Ecommerce-Web-Scraper-ETL)
 
 **📣 E-Commerce Advertising Performance Analysis** — Python | Excel | Power BI | Paid Media Analytics
 Analyzed digital advertising performance (impressions, clicks, spend, revenue, CTR, CPC, ROAS) across campaigns and channels to identify inefficient spend and efficiency opportunities.
