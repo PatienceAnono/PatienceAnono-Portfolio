@@ -1,396 +1,436 @@
-Hi, I'm Patience Anono
+<!-- ═══════════════════════════════════════════════════════════════
+     PATIENCE ANONO — GitHub Profile README
+     PA Data Analytics · padataanalytics.com · Nairobi, Kenya
+═══════════════════════════════════════════════════════════════ -->
 
-Marketing Data Analyst | Marketing Science | Growth & Customer Analytics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PatienceAnono/PatienceAnono/main/Patience_Anono_Data_Analyst_Banner.png" alt="Patience Anono — Marketing Data Analyst & Analytics Consultant" width="100%" style="max-width:900px"/>
+</div>
 
-I help businesses turn marketing, customer and revenue data into insights that improve marketing effectiveness, customer retention, revenue growth and business performance.
+<br/>
 
-My work sits at the intersection of marketing analytics, statistical modeling, customer analytics and business intelligence.
+<!-- ── NAVIGATION ─────────────────────────────────────────── -->
+<div align="center">
 
-I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to answer questions such as:
+[![About](https://img.shields.io/badge/About_Me-272D78?style=for-the-badge&logoColor=white)](#-about-me)&nbsp;
+[![Skills](https://img.shields.io/badge/Skills-272D78?style=for-the-badge&logoColor=white)](#%EF%B8%8F-technical-skills)&nbsp;
+[![Projects](https://img.shields.io/badge/Projects-272D78?style=for-the-badge&logoColor=white)](#-featured-projects)&nbsp;
+[![Education](https://img.shields.io/badge/Education-272D78?style=for-the-badge&logoColor=white)](#-education--certifications)&nbsp;
+[![Connect](https://img.shields.io/badge/Connect-2EC4B6?style=for-the-badge&logoColor=white)](#-lets-connect)
 
-* Which marketing channels are actually driving incremental revenue?
-* How should marketing budgets be allocated?
-* Where are customers dropping out of the funnel?
-* Which customers are most likely to churn?
-* Which customer segments are most valuable?
-* Which campaigns and experiments are producing better results?
-* Where is revenue at risk?
-* What should the business do next?
+</div>
 
-Business Problem → Data → Analysis → Insight → Recommendation → Business Impact
+<br/>
 
-🌐 [Portfolio Website](https://www.padataanalytics.com/)
-💼 [LinkedIn](https://www.linkedin.com/in/patience-anono)
-📧 [Email](mailto:patienceanonowebbo@gmail.com)
+<!-- ── HEADLINE ────────────────────────────────────────────── -->
+<div align="center">
+  <h1>Hi, I'm Patience Anono 👋</h1>
+  <h3>Marketing Data Analyst &nbsp;·&nbsp; Marketing Science &nbsp;·&nbsp; Growth & Customer Analytics</h3>
+  <p><em>I help businesses turn marketing, customer and revenue data into insights that improve<br/>marketing effectiveness, customer retention and revenue growth.</em></p>
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-padataanalytics.com-272D78?style=flat-square)](https://www.padataanalytics.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patience_Anono-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patience-anono/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-hello%40padataanalytics.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anonopatience@gmail.com)&nbsp;
+[![Location](https://img.shields.io/badge/📍_Nairobi-Kenya-2EC4B6?style=flat-square)](https://www.padataanalytics.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-I am a Marketing & Data Analytics Consultant at PA Data Analytics, working across marketing measurement, customer analytics, revenue intelligence and business performance.
+<table>
+<tr>
+<td valign="top" width="58%">
 
-My strongest areas include:
+I am a **Marketing & Data Analytics Consultant** at [PA Data Analytics](https://www.padataanalytics.com), working across marketing measurement, customer analytics, revenue intelligence and business performance.
 
-* Marketing Mix Modeling (MMM)
-* Multi-Touch Attribution
-* Marketing Performance Analytics
-* Marketing ROI & ROAS
-* Customer Segmentation
-* Churn & Retention Analytics
-* Marketing Funnel Analysis
-* A/B Testing & Experimentation
-* SaaS Revenue Analytics
-* E-commerce Analytics
-* Business Intelligence
-* Executive Dashboards & KPI Reporting
+My work sits at the intersection of **marketing analytics, statistical modeling, customer analytics and business intelligence.**
 
-I enjoy going beyond reporting what happened to understand why it happened and what the business should do next.
+I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to answer questions like:
 
-## 📊 Core Analytics Areas
+- Which marketing channels are actually driving incremental revenue?
+- How should marketing budgets be allocated?
+- Where are customers dropping out of the funnel?
+- Which customers are most likely to churn?
+- Which customer segments are most valuable?
+- Where is revenue at risk?
 
-### 🎯 Marketing & Growth Analytics
+**My analytics philosophy:**
 
-* Marketing Mix Modeling
-* Multi-Touch Attribution
-* Campaign Performance
-* Paid Advertising Analytics
-* ROAS & ROI Analysis
-* Budget Allocation
-* Customer Acquisition
-* Marketing Funnel Analysis
-* Conversion Rate Analysis
-* A/B Testing
-* Customer Journey Analysis
+> **What happened? → Why did it happen? → What should we do next?**
 
-### 👥 Customer Analytics
+</td>
+<td valign="top" width="42%">
 
-* Customer Segmentation
-* RFM Analysis
-* K-Means Clustering
-* Churn Prediction
-* Retention Analysis
-* Cohort Analysis
-* Customer Lifetime Value
-* Customer Behavior Analysis
-* Customer Health Scoring
+<div align="center">
 
-### 💰 Revenue & SaaS Analytics
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatienceAnono&show_icons=true&title_color=272D78&icon_color=3386C7&text_color=555770&bg_color=F8F9FC&border_color=dde3ef&count_private=true&hide_border=false)](https://github.com/PatienceAnono)
 
-* MRR & ARR Analysis
-* Revenue Growth
-* Revenue Concentration
-* Revenue at Risk
-* Customer Retention
-* Churn & Downgrade Analysis
-* Product Engagement
-* SaaS Revenue Health
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatienceAnono&layout=compact&title_color=272D78&text_color=555770&bg_color=F8F9FC&border_color=dde3ef&langs_count=6)](https://github.com/PatienceAnono)
 
-### 📈 Business Intelligence
+</div>
 
-* Executive Dashboards
-* KPI Reporting
-* Performance Monitoring
-* Commercial Analytics
-* Operational Reporting
-* Power BI Dashboards
-* Excel Dashboards
-* Data Storytelling
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Technical Skills
 
-**Programming & Data Analysis**
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Statsmodels
-* XGBoost
-* SciPy
-* Jupyter Notebook
+<details open>
+<summary><b>🐍 Programming & Data Analysis</b></summary>
+<br/>
 
-**SQL & Data Warehousing**
-* SQL
-* MySQL
-* Google BigQuery
-* SQLite
-* ETL & Data Transformation
-* Data Cleaning
-* Data Transformation
-* Aggregations
-* Exploratory Data Analysis
+![Python](https://img.shields.io/badge/Python-272D78?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-272D78?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-272D78?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-272D78?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-272D78?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-272D78?style=for-the-badge&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-272D78?style=for-the-badge&logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-272D78?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Web Scraping & Data Engineering**
-* Requests
-* BeautifulSoup
-* Web Scraping
-* Pagination Handling
-* Data Validation
-* CSV & SQLite Pipelines
+</details>
 
-**Business Intelligence & Visualization**
-* Power BI
-* DAX
-* Power Query
-* Tableau
-* Excel
-* Pivot Tables
-* Looker Studio
-* KPI Design
-* Dashboard Development
+<details>
+<summary><b>🗄️ SQL & Data Warehousing</b></summary>
+<br/>
 
-**Marketing Analytics Platforms**
-* Google Analytics 4
-* Google BigQuery
-* Google Tag Manager
-* Google Ads
-* Meta Ads
-* Digital Advertising Analytics
+![SQL](https://img.shields.io/badge/SQL-3386C7?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-3386C7?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-3386C7?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3386C7?style=for-the-badge&logo=sqlite&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_Pipelines-3386C7?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📊 Business Intelligence & Visualisation</b></summary>
+<br/>
+
+![Power BI](https://img.shields.io/badge/Power_BI-272D78?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/DAX-272D78?style=for-the-badge&logo=powerbi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-272D78?style=for-the-badge&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-272D78?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-272D78?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📣 Marketing Analytics Platforms</b></summary>
+<br/>
+
+![GA4](https://img.shields.io/badge/Google_Analytics_4-3386C7?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-3386C7?style=for-the-badge&logo=googleads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-3386C7?style=for-the-badge&logo=meta&logoColor=white)
+![GTM](https://img.shields.io/badge/Google_Tag_Manager-3386C7?style=for-the-badge&logo=googletagmanager&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🕸️ Web Scraping & Data Engineering</b></summary>
+<br/>
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2EC4B6?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2EC4B6?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Data_Pipelines-2EC4B6?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+---
 
 ## ⭐ Featured Projects
 
-### 1. 🎯 Marketing Mix Modeling — Multi-Channel Budget Optimization
-Python | Statsmodels | OLS Regression | Adstock | Power BI
+### 🎯 Marketing & Attribution Analytics
 
-Built an OLS-based Marketing Mix Model to evaluate how marketing investment contributed to revenue across multiple channels.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Analysis**
-* Modeled 104 weeks of marketing and revenue data
-* Applied adstock/carryover transformations
-* Decomposed revenue into base demand and channel contribution
-* Evaluated channel-level efficiency and blended ROAS
-* Built budget reallocation scenarios
+#### 📊 Marketing Mix Modeling — Budget Optimization
 
-**Key Result**
-$20.22M in revenue modeled against $1.98M in tracked marketing spend, for a blended ROAS of 11.52x. Reallocating budget within the model's estimated channel efficiency curves at equivalent total spend, pointed to a projected annual revenue uplift of approximately **+$461,310**.
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-272D78?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
+![OLS](https://img.shields.io/badge/OLS_Regression-2EC4B6?style=flat-square)
 
-**Business Question**
-How should the marketing budget be allocated to maximize revenue?
+**Business Question:** How should the marketing budget be allocated to maximise revenue?
 
-🔗 [View MMM Project](https://github.com/PatienceAnono/Marketing-Mix-Modelling-ROI-Analysis)
+Built an OLS-based MMM to evaluate channel contribution to revenue across 104 weeks. Applied adstock/carryover transformations and decomposed revenue into base demand and paid-channel contributions.
 
-### 2. 🎯 Multi-Touch Attribution & Budget Optimization
-Python | SQL | Excel | Power BI | Marketing Attribution
+| Metric | Result |
+|:--|--:|
+| Revenue modelled | $20.22M |
+| Marketing spend tracked | $1.98M |
+| Blended ROAS | **11.52×** |
+| Projected revenue uplift | **+$461,310** |
 
-Built and compared five attribution methodologies across customer journeys:
+[🔗 View MMM Project](https://github.com/PatienceAnono)
 
-* Last Click
-* First Click
-* Linear
-* Time Decay
-* Shapley / Data-Driven Attribution
+</td>
+<td width="50%" valign="top">
 
-**Dataset**
-* 11,193 cleaned touchpoints
-* 3,500 customer journeys
-* 1,454 conversions
-* $229,294.41 in attributed revenue
+#### 🎯 Multi-Touch Attribution & Budget Optimization
 
-**Key Finding**
-Comparing the five attribution methodologies produced materially different views of which channels deserve credit  and therefore different implied marketing budget allocations. The choice of attribution model is not a technicality; it directly changes which channels look like they are driving revenue.
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-272D78?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-3386C7?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Shapley](https://img.shields.io/badge/Shapley_Attribution-2EC4B6?style=flat-square)
 
-**Business Question**
-Are we giving marketing credit  and therefore budget to the channels that actually contribute to revenue?
+**Business Question:** Are we giving budget to channels that actually drive revenue?
 
-🔗 [View Attribution Project](https://github.com/PatienceAnono/multi-touch-attribution-budget-optimisation)
+Built and compared 5 attribution methodologies — Last Click, First Click, Linear, Time Decay, Shapley — to show how model choice directly changes which channels deserve investment.
 
-### 3. 💳 SaaS Revenue Health & Churn Intelligence
-Python | SQL | BigQuery | Power BI | SaaS Analytics
+| Metric | Result |
+|:--|--:|
+| Touchpoints analysed | 11,193 |
+| Customer journeys | 3,500 |
+| Conversions | 1,454 |
+| Revenue attributed | **$229,294** |
 
-Built an end-to-end SaaS revenue and customer health analysis using 86,000+ records across multiple relational datasets.
+[🔗 View Attribution Project](https://github.com/PatienceAnono)
 
-**Analyzed**
-* Monthly Recurring Revenue
-* Customer retention
-* Churn
-* Downgrades
-* Product engagement
-* Acquisition
-* Support interactions
-* Revenue concentration
-* Revenue at risk
+</td>
+</tr>
+</table>
 
-**Key Results**
-MRR increased from $1,832 to $416,815 between January 2022 and December 2024. Enterprise customers represented approximately 28% of customers but roughly 65% of MRR. The analysis identified $114,087 in MRR at risk across 463 customers, using customer health scoring built from product engagement and support signals.
+### 💰 Revenue & Customer Analytics
 
-**Business Impact**
-Identified leading indicators of customer churn and revenue exposure to support targeted retention strategies, delivered as an interactive Power BI dashboard.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [View SaaS Revenue Health Project](https://github.com/PatienceAnono/saas-revenue-health-churn-intelligence-dashboard)
+#### 📈 SaaS Revenue Health & Churn Intelligence
 
-### 4. 📈 Website Traffic & Revenue Analysis
-Python | GA4-style Web Analytics | Power BI | Correlation Analysis
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-272D78?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
 
-Analyzed website traffic and revenue data to understand how session volume, conversion behavior and revenue moved together and where they didn't.
+**Business Question:** Is recurring revenue healthy — and where is it at risk?
 
-**Dataset**
-* 1,274 records analyzed
-* 363,116 sessions
-* 24,203 conversions
-* $941,205 in revenue analyzed
-* 6.67% weighted conversion rate
+End-to-end SaaS revenue analysis on 86,000+ records across 6 relational datasets, covering MRR, churn, retention, product engagement and revenue concentration.
 
-**Key Finding**
-Sessions showed almost no linear relationship with revenue (r = 0.012), while sessions showed a moderate negative relationship with conversion rate (r = -0.640) — indicating that higher-traffic periods were not converting as efficiently as lower-traffic periods.
+| Metric | Result |
+|:--|--:|
+| MRR growth | $1,832 → **$416,815** |
+| Enterprise MRR share | **65%** of total |
+| MRR at risk identified | **$114,087** |
+| Customers flagged | 463 |
 
-**Business Question**
-Is site traffic growth translating into proportional revenue growth or are higher-volume periods converting less efficiently?
+[🔗 View SaaS Revenue Project](https://github.com/PatienceAnono)
 
-🔗 [View Website Traffic Analysis Project](https://github.com/PatienceAnono/website-traffic-analysis)
+</td>
+<td width="50%" valign="top">
 
-### 5. 📊 E-Commerce Commercial Performance Dashboard
-Power BI | DAX | Business Intelligence | E-commerce Analytics
+#### 👥 Customer Segmentation & RFM Analysis
 
-Built an executive-level Power BI dashboard to monitor commercial performance.
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means_Clustering-272D78?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
 
-**Dashboard Areas**
-* Revenue trends
-* Customer retention
-* Product performance
-* Regional revenue
-* Customer contribution
-* Commercial KPIs
+**Business Question:** Which customers are most valuable — and which are at risk of leaving?
 
-The dashboard was designed to move beyond static reporting and help decision-makers quickly identify performance changes and areas requiring attention.
+Segmented 8,400 customers using RFM analysis and K-Means clustering; built an interactive Power BI dashboard for retention and campaign targeting.
 
-🔗 [View Power BI Project](https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard)
+| Metric | Result |
+|:--|--:|
+| Customers segmented | 8,400 |
+| Champions revenue share | **54%** of total |
+| At-risk customers | 22% of base |
+| Recoverable revenue | **~$127K** |
 
-### 6. 👥 E-Commerce Customer Segmentation / RFM
-Python | Pandas | Scikit-learn | RFM | K-Means | Power BI
+[🔗 View Customer Segmentation Project](https://github.com/PatienceAnono)
 
-Segmented 8,400 customers using RFM analysis and K-Means clustering, then built an interactive Power BI dashboard on top of the resulting customer-level segmentation.
+</td>
+</tr>
+</table>
 
-**Customer Segments**
-* Champions
-* Loyal Customers
-* At-Risk Customers
-* Hibernating Customers
-* Other behavioral segments
+### 🛒 E-Commerce & Funnel Analytics
 
-**Key Finding**
-Champions represented approximately 18% of customers but approximately 54% of revenue. At-Risk customers represented approximately 22% of the customer base, with approximately $127K in potentially recoverable revenue.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Business Applications**
-The segmentation framework can support retention campaigns, win-back campaigns, cross-selling, upselling and personalized marketing.
+#### 🛒 E-Commerce Funnel & Conversion Analytics
 
-🔗 [View Customer Segmentation Project](https://github.com/PatienceAnono/ecommerce-customer-segmentation)
+![GA4](https://img.shields.io/badge/GA4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-272D78?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3386C7?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
+
+**Business Question:** Where in the funnel is revenue being lost?
+
+Analysed GA4 e-commerce data across 270,154 users. Found 40.8% of users who reached the payment step abandoned before completing — the single largest recoverable revenue leak.
+
+| Metric | Result |
+|:--|--:|
+| Total users | 270,154 |
+| Revenue analysed | $362,100 |
+| Session CVR | 1.60% |
+| Payment abandonment | **40.8% ⚠** |
+
+[🔗 View Funnel Analysis Project](https://github.com/PatienceAnono)
+
+</td>
+<td width="50%" valign="top">
+
+#### 📊 Shopify Cohort Retention Analysis
+
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-272D78?style=flat-square)
+![Cohort](https://img.shields.io/badge/Cohort_Analysis-2EC4B6?style=flat-square)
+
+**Business Question:** Are customers coming back after their first purchase?
+
+Analysed 15 monthly cohorts across 2,810 customers and 6,404 orders. Found approximately 62% of customers never returned after their first purchase — Month 1 retention averaged just 37.9%.
+
+| Metric | Result |
+|:--|--:|
+| Customers analysed | 2,810 |
+| Revenue analysed | $401,672 |
+| M0→M1 drop-off | **62.1 pp** |
+| Month 12 retention | 9.0% |
+
+[🔗 View Shopify Cohort Project](https://github.com/PatienceAnono)
+
+</td>
+</tr>
+</table>
+
+### 🧪 Testing, Prediction & Intelligence
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧪 Email Marketing A/B Testing
+
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![Stats](https://img.shields.io/badge/Statistical_Testing-272D78?style=flat-square)
+
+Tested a new campaign variant against a baseline with full statistical significance testing.
+
+| Metric | Baseline → Test |
+|:--|--:|
+| Open rate | 23.99% → **36.66%** |
+| Click rate uplift | **+139.5%** |
+| Conversion rate | 0.59% → **1.76%** |
+
+[🔗 View A/B Testing Project](https://github.com/PatienceAnono)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Customer Churn Prediction
+
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-272D78?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-3386C7?style=flat-square)
+
+Built a binary churn prediction model on 12,000 customer records with 18 engineered behavioural features.
+
+| Metric | Result |
+|:--|--:|
+| Customer records | 12,000 |
+| Engineered features | 18 |
+| Model AUC-ROC | **0.91** |
+
+[🔗 View Churn Prediction Project](https://github.com/PatienceAnono)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 📚 Additional Projects
 
-**🕸️ E-Commerce Web Scraper & ETL Pipeline** — Python | Requests | BeautifulSoup | Pandas | SQLite | SQL
+| Project | Stack | Key Finding |
+|:--|:--|:--|
+| 📈 Website Traffic & Revenue Analysis | Python · GA4 · Power BI | Sessions showed r = 0.012 with revenue; higher-traffic periods converted less efficiently |
+| 📊 E-Commerce BI Dashboard | Power BI · DAX | Executive revenue, retention, product & regional KPI dashboard |
+| 🕸️ E-Commerce Web Scraper & ETL | Python · BeautifulSoup · SQLite | 1,000 products · 16 fields · 50 categories · 0 duplicates |
+| 📣 Advertising Performance Analysis | Python · Excel · Power BI | Channel-level ROAS, CTR, CPC efficiency and spend optimisation |
+| 📊 Business Performance Dashboard | Excel · Pivot Tables | Revenue drivers, cost trends and operational KPI monitoring |
+| ☕ Coffee Sales Dashboard | Excel | Monthly revenue, weekly performance, product demand analysis |
+| 🕵️ Credit Card Fraud Detection | Python · XGBoost · Random Forest | Imbalanced-dataset ML classification for fraud identification |
+| 👩‍💼 HR Data Analysis | SQL · Power BI | Workforce KPI dashboard — data cleaning, SQL analysis, BI reporting |
+| 🌾 Food Security Monitoring | Tableau | Interactive dashboard: food access, household income, malnutrition |
+| 🩺 Healthcare Data Analysis | Python | Patient visits, satisfaction & healthcare centre performance |
 
-Built an end-to-end ETL workflow that extracts product and product-detail data from Books to Scrape, transforms and validates the dataset, loads it into SQLite, and prepares it for SQL and exploratory analysis.
-
-**Project Results**
-* 50 catalogue pages scraped
-* 1,000 products extracted
-* 16 fields collected per product
-* 50 categories represented
-* 0 duplicate product URLs
-* 0 invalid ratings
-* 0 invalid prices
-
-The project demonstrates reusable web-scraping functions, pagination handling, data cleaning, validation, CSV storage, SQLite loading, SQL analysis, and Jupyter-based exploration.
-
-🔗 [View E-Commerce Web Scraper & ETL Project](https://github.com/PatienceAnono/Ecommerce-Web-Scraper-ETL)
-
-**📣 E-Commerce Advertising Performance Analysis** — Python | Excel | Power BI | Paid Media Analytics
-Analyzed digital advertising performance (impressions, clicks, spend, revenue, CTR, CPC, ROAS) across campaigns and channels to identify inefficient spend and efficiency opportunities.
-🔗 [View Project](https://github.com/PatienceAnono/ecommerce-ad-campaign-performance-analysis)
-
-**🛒 E-Commerce Funnel & Conversion Analytics** — GA4 | BigQuery | SQL | Python | Power BI
-Analyzed GA4 e-commerce data across 270,154 unique users and 354,970 sessions ($362.1K revenue, $63.63 AOV); found approximately 40.8% of users dropped off at the payment stage.
-🔗 [View Project](https://github.com/PatienceAnono/ecommerce-funnel-analysis-ga4)
-
-**🧪 Email Marketing A/B Testing** — Python | Statistical Testing | Marketing Analytics
-Tested a new email campaign variant against a baseline: open rate 23.99% → 36.66%, click rate +139.5%, conversion rate 0.59% → 1.76%, with statistical testing to confirm the differences were meaningful.
-🔗 [View Project](https://github.com/PatienceAnono/email-marketing-ab-testing-conversion-optimisation)
-
-**🧠 Customer Churn Prediction** — Python | XGBoost | Scikit-learn | Feature Engineering | Power BI
-Built a binary churn prediction model on 12,000 customer records with 18 engineered behavioral features, achieving 0.91 AUC-ROC; risk scores visualized in Power BI to prioritize retention outreach.
-🔗 [View Project](https://github.com/PatienceAnono/customer-retention-intelligence-churn-prediction)
-
-**📈 Shopify Cohort Retention Analysis** — Python | Shopify Data | Cohort Analysis | Customer Retention
-Analyzed 2,810 customers and 6,404 orders across a 15-month Shopify cohort ($401K revenue analyzed); approximately 62% of customers did not return after their first purchase, with Month 1 retention around 37.9%.
-🔗 [View Project](https://github.com/PatienceAnono/ecommerce-cohort-retention-analysis)
-
-**📊 Business Performance Intelligence Dashboard** — Excel | Business Analytics | KPI Reporting
-A practical business performance dashboard combining automated calculations, KPI tracking and trend analysis to answer why sales are changing and where performance problems are emerging.
-🔗 [View Project](https://github.com/PatienceAnono)
-
-**Customer Retention & Revenue Growth Analysis** — Python | Customer Analytics | Revenue Analysis
-Analyzed customer behavior, retention patterns, churn, and revenue growth to identify opportunities for improving customer value and long-term revenue.
-🔗 [View Project](https://github.com/PatienceAnono/Customer-retention-and-revenue-growth-analysis)
-
-**☕ Coffee Sales Performance Dashboard** — Excel | Pivot Tables | Dashboard | Sales Analytics
-Interactive dashboard analyzing sales trends, monthly revenue, weekly performance, product demand, and peak sales periods.
-🔗 [View Project](https://github.com/PatienceAnono/coffee-sales-excel-dashboard)
-
-**🕵️ Credit Card Fraud Detection** — Python | Machine Learning | XGBoost | Random Forest
-Machine learning models to identify fraudulent transactions using an imbalanced dataset.
-🔗 [View Project](https://github.com/PatienceAnono/Credit-Card-Fraud-Dectection)
-
-**📞 Telecom Customer Churn Analysis** — Python | Machine Learning | Customer Analytics
-Analyzed telecom customer churn patterns and developed predictive models to identify important churn drivers.
-🔗 [View Project](https://github.com/PatienceAnono/-SyriaTel-Customer-Churn-Project)
-
-**👩‍💼 HR Data Analysis** — SQL | Power BI | Business Intelligence
-Used SQL for data cleaning and analysis and developed a Power BI dashboard to evaluate workforce KPIs.
-🔗 [View Project](https://github.com/PatienceAnono/HR-DATA-ANALYSIS)
-
-**🌾 Food Security Monitoring** — Tableau | Data Visualization
-Interactive Tableau dashboard analyzing food security indicators including food access, household income, and malnutrition.
-🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/patience5611/viz/KaramojaRegionFoodmonitoringtool/SummaryTable)
-
-**🩺 Healthcare Data Analysis** — Python | Data Analysis | Data Visualization
-Analyzed patient visits, satisfaction, and healthcare center performance to identify operational and service delivery insights.
-🔗 [View Project](https://github.com/PatienceAnono/HEALTH-CARE-DATA-ANALYSIS)
+---
 
 ## 🧠 My Analytics Workflow
 
-I use a structured, business-focused approach:
+```
+  Business         Data            EDA           Modelling
+  Problem    →  Collection  →  & Validation  →  & Analysis
+                                                      │
+  Business     Insights &      Dashboard &      Findings
+  Impact   ←  Decisions   ←  Visualisation ←  & Patterns
+```
 
-Business Problem → Data Collection → Data Cleaning & Validation → Exploratory Data Analysis → Statistical / Analytical Modeling → Dashboard & Visualization → Business Insights → Recommendations → Business Impact
+> Analytics should not stop at a dashboard. The goal is to connect analysis to a decision.
 
-I don't believe analytics should stop at a dashboard. The goal is to connect analysis to a decision.
+---
 
-## 🎯 What I Bring
+## 🎓 Education & Certifications
 
-I combine technical analytics skills with business thinking to help organizations:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📈 Improve marketing performance
-💰 Optimize marketing spend and revenue
-🎯 Measure campaign effectiveness
-👥 Understand customers and improve retention
-📊 Build decision-ready dashboards
-🔎 Identify risks and growth opportunities
-🧪 Evaluate experiments and campaigns
-🚀 Turn data into practical business decisions
+**🎓 Education**
 
-My analytics philosophy is simple: What happened? Why did it happen? What should we do next?
+| Qualification | Institution | Year |
+|:--|:--|:--|
+| BSc Physics — Electronics & Microprocessing | University of Nairobi | 2014–2018 |
+| Data Science Certificate | Moringa School | 2022–2023 |
 
-## 🎓 Education
+</td>
+<td width="50%" valign="top">
 
-**University of Nairobi**
-BSc Physics — Electronics & Microprocessing
-2014 – 2018
+**📜 Certifications**
 
-**Moringa School**
-Data Science Certificate
-2022 – 2023
+![GA4](https://img.shields.io/badge/Google_Analytics_4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
+![IBM SQL](https://img.shields.io/badge/SQL_%26_Relational_DBs_–_IBM-272D78?style=flat-square)
+![HubSpot](https://img.shields.io/badge/Digital_Marketing_–_HubSpot-3386C7?style=flat-square)
+![HubSpot SEO](https://img.shields.io/badge/SEO_Certification_–_HubSpot-3386C7?style=flat-square)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-2EC4B6?style=flat-square&logo=google&logoColor=white)
+![Cisco](https://img.shields.io/badge/Network_Support_–_Cisco-2EC4B6?style=flat-square)
 
-## 📜 Certifications
+</td>
+</tr>
+</table>
 
-* Google Analytics 4 — Google Skillshop
-* SQL & Relational Databases — IBM
-* Digital Marketing — HubSpot Academy
-* SEO Certification — HubSpot Academy
-* Google Cybersecurity Professional Certificate
-* Network Support — Cisco Academy
+---
 
 ## 📫 Let's Connect
 
-📧 Email: [anonopatience@gmail.com](mailto:anonopatience@gmail.com)
-💼 LinkedIn: [linkedin.com/in/patience-anono/](https://www.linkedin.com/in/patience-anono/)
-🌐 Portfolio: [www.padataanalytics.com](https://www.padataanalytics.com)
-🐙 GitHub: [github.com/PatienceAnono](https://github.com/PatienceAnono)
+<div align="center">
 
-💡 Data becomes powerful when it tells a story.
-**I help businesses understand that story, turn it into actionable insights, and make better decisions.**
+| | |
+|:--:|:--|
+| 🌐 **Portfolio** | [padataanalytics.com](https://www.padataanalytics.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/patience-anono](https://linkedin.com/in/patience-anono/) |
+| 📧 **Email** | [anonopatience@gmail.com](mailto:anonopatience@gmail.com) |
+| 🐙 **GitHub** | [github.com/PatienceAnono](https://github.com/PatienceAnono) |
+
+<br/>
+
+[![View Portfolio](https://img.shields.io/badge/View_Portfolio-272D78?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.padataanalytics.com)&nbsp;
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patience-anono/)&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonopatience@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub><i>💡 Data becomes powerful when it tells a story. I help businesses understand that story, turn it into actionable insights, and make better decisions.</i></sub>
+</div>
