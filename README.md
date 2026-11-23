@@ -406,7 +406,7 @@ Built a binary churn prediction model on 12,000 customer records with 18 enginee
 [![British Airways Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_British_Airways-272D78?style=flat-square)](certificates/British_Airways_Data_Science_Job_Simulation_Forage.pdf)
 [![BCG X Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_BCG_X-3386C7?style=flat-square)](certificates/BCG_X_Data_Science_Job_Simulation_Forage.pdf)
 
-<sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (customer churn: EDA, feature engineering, modelling & evaluation).</sub>
+<sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (problem framing, EDA & data cleaning, feature engineering, modelling & evaluation).</sub>
 
 </td>
 </tr>
