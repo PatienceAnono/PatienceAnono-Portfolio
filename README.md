@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     PATIENCE ANONO — GitHub Profile README
+     PATIENCE ANONO — GitHub Portfolio
      PA Data Analytics · padataanalytics.com · Nairobi, Kenya
 ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PatienceAnono/PatienceAnono/main/Patience_Anono_Data_Analyst_Banner.png" alt="Patience Anono — Marketing Data Analyst & Analytics Consultant" width="100%" style="max-width:900px"/>
+  <img src="https://raw.githubusercontent.com/PatienceAnono/PatienceAnono-Portfolio/main/Patience_Anono_Data_Analyst_Banner.png" alt="Patience Anono — Marketing Data Analyst & Analytics Consultant" width="100%" style="max-width:900px"/>
 </div>
 
 <br/>
@@ -33,10 +33,22 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-padataanalytics.com-272D78?style=flat-square)](https://www.padataanalytics.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patience_Anono-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/patience-anono/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-hello%40padataanalytics.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anonopatience@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Email-hello%40padataanalytics.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@padataanalytics.com)&nbsp;
 [![Location](https://img.shields.io/badge/📍_Nairobi-Kenya-2EC4B6?style=flat-square)](https://www.padataanalytics.com)
 
 </div>
+
+---
+
+## ⚡ At a Glance
+
+| | |
+|:--|:--|
+| 🎯 **Focus** | Marketing measurement (MMM, attribution, A/B testing), customer analytics (churn, retention, segmentation), revenue & funnel analytics |
+| 🧰 **Core stack** | Python · SQL · BigQuery · Power BI · Excel · GA4 · scikit-learn · LightGBM · Statsmodels |
+| 🏭 **Industries covered** | E-commerce & DTC · SaaS · Airlines · Energy & utilities · Public health & development |
+| 🏅 **Latest** | Completed the **British Airways** and **BCG X** Data Science Job Simulations (Forage, Nov 2026) and extended both into full case studies |
+| 📂 **Every project** | Business question → analysis → recommendation, with code, notebooks and dashboards linked below |
 
 ---
 
@@ -55,7 +67,7 @@ I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to an
 - Which marketing channels are actually driving incremental revenue?
 - How should marketing budgets be allocated?
 - Where are customers dropping out of the funnel?
-- Which customers are most likely to churn?
+- Which customers are most likely to churn, and which are worth saving?
 - Which customer segments are most valuable?
 - Where is revenue at risk?
 
@@ -83,7 +95,7 @@ I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to an
 ## 🛠️ Technical Skills
 
 <details open>
-<summary><b>🐍 Programming & Data Analysis</b></summary>
+<summary><b>🐍 Programming, Statistics & Machine Learning</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-272D78?style=for-the-badge&logo=python&logoColor=white)
@@ -92,7 +104,10 @@ I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to an
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-272D78?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-272D78?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-272D78?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-272D78?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-272D78?style=for-the-badge&logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-272D78?style=for-the-badge&logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-272D78?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-272D78?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </details>
@@ -146,6 +161,60 @@ I use Python, SQL, Power BI, Excel, BigQuery, GA4 and statistical modeling to an
 
 ## ⭐ Featured Projects
 
+### ✈️ Industry Case Studies — British Airways & BCG X
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ✈️ British Airways — Lounge Capacity & Booking Conversion
+
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-272D78?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-3386C7?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-2EC4B6?style=flat-square&logo=streamlit&logoColor=white)
+
+**Business Questions:** How big should each Heathrow T3 lounge be? Who is likely to book, and who should marketing target?
+
+Built on the BA Forage job simulation, then taken further: a minute-by-minute lounge occupancy model sized for the 95th-percentile day, and a booking-conversion model (Logistic Regression vs Random Forest vs LightGBM, explained with SHAP) with a profit-based targeting cut-off and an interactive Streamlit app.
+
+| Metric | Result |
+|:--|--:|
+| Club lounge design peak | **~340 people** |
+| Booking sessions modelled | 49,281 |
+| LightGBM ROC AUC | **0.80** |
+| Bookers in top 20% of scores | **51%** |
+
+[🔗 View British Airways Project](https://github.com/PatienceAnono/british-airways-analytics)
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ BCG X — PowerCo SME Churn & Retention Intelligence
+
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-272D78?style=flat-square)
+![Random Forest](https://img.shields.io/badge/Random_Forest-3386C7?style=flat-square)
+
+**Business Question:** Is price sensitivity really driving SME customers to competitors — and would a blanket discount fix it?
+
+Tested the client's hypothesis on 14,606 SME customers, engineered price-trend and tenure features with a full leakage audit, and built a churn model that turns into a targeted retention plan instead of a blanket discount.
+
+| Metric | Result |
+|:--|--:|
+| SME customers analysed | 14,606 |
+| Churn rate | 9.7% |
+| Held-out ROC AUC | **0.73** |
+| Discount spend vs blanket offer | **−97%** |
+
+**Key insight:** price was *not* the main churn driver — margin, consumption and tenure were.
+
+[🔗 View PowerCo Churn Project](https://github.com/PatienceAnono/PowerCo-SME-Customer-Churn-Retention-Intelligence)
+
+</td>
+</tr>
+</table>
+
 ### 🎯 Marketing & Attribution Analytics
 
 <table>
@@ -168,9 +237,11 @@ Built an OLS-based MMM to evaluate channel contribution to revenue across 104 we
 | Revenue modelled | $20.22M |
 | Marketing spend tracked | $1.98M |
 | Blended ROAS | **11.52×** |
-| Projected revenue uplift | **+$461,310** |
+| Projected revenue uplift | **+$461,310 / yr** |
 
-[🔗 View MMM Project](https://github.com/PatienceAnono)
+**Key insight:** shifting budget from saturated Paid Search & Social to Email and Influencer lifts revenue with *no extra spend*.
+
+[🔗 View MMM Project](https://github.com/PatienceAnono/Marketing-Mix-Modelling-ROI-Analysis)
 
 </td>
 <td width="50%" valign="top">
@@ -193,7 +264,7 @@ Built and compared 5 attribution methodologies — Last Click, First Click, Line
 | Conversions | 1,454 |
 | Revenue attributed | **$229,294** |
 
-[🔗 View Attribution Project](https://github.com/PatienceAnono)
+[🔗 View Attribution Project](https://github.com/PatienceAnono/multi-touch-attribution-budget-optimisation)
 
 </td>
 </tr>
@@ -222,59 +293,53 @@ End-to-end SaaS revenue analysis on 86,000+ records across 6 relational datasets
 | MRR at risk identified | **$114,087** |
 | Customers flagged | 463 |
 
-[🔗 View SaaS Revenue Project](https://github.com/PatienceAnono)
+[🔗 View SaaS Revenue Project](https://github.com/PatienceAnono/saas-revenue-health-churn-intelligence-dashboard)
 
 </td>
 <td width="50%" valign="top">
 
-#### 👥 Customer Segmentation & RFM Analysis
+#### 🧠 Customer Churn Prediction & Retention ROI
 
 ![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
-![K-Means](https://img.shields.io/badge/K--Means_Clustering-272D78?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
+![XGBoost](https://img.shields.io/badge/XGBoost-272D78?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-3386C7?style=flat-square)
 
-**Business Question:** Which customers are most valuable — and which are at risk of leaving?
+**Business Question:** Which customers are about to leave — and what is the cheapest way to keep them?
 
-Segmented 8,400 customers using RFM analysis and K-Means clustering; built an interactive Power BI dashboard for retention and campaign targeting.
+Trained and compared four classifiers on 5,630 e-commerce customers, chose the most stable model on cross-validation, set a business-cost-optimal threshold and turned the scores into a costed retention plan.
 
 | Metric | Result |
 |:--|--:|
-| Customers segmented | 8,400 |
-| Champions revenue share | **54%** of total |
-| At-risk customers | 22% of base |
-| Recoverable revenue | **~$127K** |
+| Customers scored | 5,630 |
+| Churn rate | 24.7% |
+| Model AUC-ROC | **0.81** |
+| Revenue saved vs retention budget | **$503,848 vs $23,357** |
 
-[🔗 View Customer Segmentation Project](https://github.com/PatienceAnono)
+[🔗 View Churn Prediction Project](https://github.com/PatienceAnono/customer-retention-intelligence-churn-prediction)
 
 </td>
 </tr>
-</table>
-
-### 🛒 E-Commerce & Funnel Analytics
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛒 E-Commerce Funnel & Conversion Analytics
+#### 👥 Customer Segmentation — RFM & K-Means
 
-![GA4](https://img.shields.io/badge/GA4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-272D78?style=flat-square&logo=googlebigquery&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3386C7?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means_Clustering-272D78?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI_Ready-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
 
-**Business Question:** Where in the funnel is revenue being lost?
+**Business Question:** Which customers are most valuable — and which are about to disengage?
 
-Analysed GA4 e-commerce data across 270,154 users. Found 40.8% of users who reached the payment step abandoned before completing — the single largest recoverable revenue leak.
+Cleaned a messy CRM export for a DTC beauty & wellness brand, scored every customer with RFM, validated the segments with K-Means, and produced a segment-by-segment marketing playbook.
 
 | Metric | Result |
 |:--|--:|
-| Total users | 270,154 |
-| Revenue analysed | $362,100 |
-| Session CVR | 1.60% |
-| Payment abandonment | **40.8% ⚠** |
+| Customers segmented | 1,000 |
+| Named segments | 6 |
+| High churn risk | **53.9%** |
+| High-value at-risk accounts found | **67** (avg spend $799) |
 
-[🔗 View Funnel Analysis Project](https://github.com/PatienceAnono)
+[🔗 View Customer Segmentation Project](https://github.com/PatienceAnono/ecommerce-customer-segmentation)
 
 </td>
 <td width="50%" valign="top">
@@ -296,51 +361,58 @@ Analysed 15 monthly cohorts across 2,810 customers and 6,404 orders. Found appro
 | M0→M1 drop-off | **62.1 pp** |
 | Month 12 retention | 9.0% |
 
-[🔗 View Shopify Cohort Project](https://github.com/PatienceAnono)
+[🔗 View Shopify Cohort Project](https://github.com/PatienceAnono/ecommerce-cohort-retention-analysis)
 
 </td>
 </tr>
 </table>
 
-### 🧪 Testing, Prediction & Intelligence
+### 🛒 Funnel & Experimentation
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🧪 Email Marketing A/B Testing
+#### 🛒 E-Commerce Funnel & Conversion Analytics (GA4)
 
-![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
-![Stats](https://img.shields.io/badge/Statistical_Testing-272D78?style=flat-square)
+![GA4](https://img.shields.io/badge/GA4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-272D78?style=flat-square&logo=googlebigquery&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-3386C7?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-3386C7?style=flat-square&logo=powerbi&logoColor=F2C811)
 
-Tested a new campaign variant against a baseline with full statistical significance testing.
+**Business Question:** Where in the funnel is revenue being lost?
 
-| Metric | Baseline → Test |
+Analysed GA4 e-commerce data across 270,154 users. Found 40.8% of users who reached the payment step abandoned before completing — the single largest recoverable revenue leak.
+
+| Metric | Result |
 |:--|--:|
-| Open rate | 23.99% → **36.66%** |
-| Click rate uplift | **+139.5%** |
-| Conversion rate | 0.59% → **1.76%** |
+| Total users | 270,154 |
+| Revenue analysed | $362,100 |
+| Session CVR | 1.60% |
+| Payment abandonment | **40.8% ⚠** |
 
-[🔗 View A/B Testing Project](https://github.com/PatienceAnono)
+[🔗 View Funnel Analysis Project](https://github.com/PatienceAnono/ecommerce-funnel-analysis-ga4)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🧠 Customer Churn Prediction
+#### 🧪 Email Marketing A/B Testing
 
 ![Python](https://img.shields.io/badge/Python-272D78?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-272D78?style=flat-square)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-3386C7?style=flat-square)
+![SciPy](https://img.shields.io/badge/Statistical_Testing-272D78?style=flat-square&logo=scipy&logoColor=white)
 
-Built a binary churn prediction model on 12,000 customer records with 18 engineered behavioural features.
+**Business Question:** Does the new campaign variant really outperform — enough to justify a full rollout?
 
-| Metric | Result |
+Evaluated a 90-day experiment on 25,000 customers with funnel analysis, hypothesis testing and revenue impact modelling. All primary improvements were significant at p < 0.0001.
+
+| Metric | Control → Variant |
 |:--|--:|
-| Customer records | 12,000 |
-| Engineered features | 18 |
-| Model AUC-ROC | **0.91** |
+| Open rate | 23.99% → **36.66%** |
+| Click rate | 4.24% → **10.15%** (+139%) |
+| Conversion rate | 0.59% → **1.76%** |
+| Revenue per send | $4.56 → **$18.33** |
 
-[🔗 View Churn Prediction Project](https://github.com/PatienceAnono)
+[🔗 View A/B Testing Project](https://github.com/PatienceAnono/email-marketing-ab-testing-conversion-optimisation)
 
 </td>
 </tr>
@@ -348,20 +420,36 @@ Built a binary churn prediction model on 12,000 customer records with 18 enginee
 
 ---
 
+## 🏥 Public Health & Development Analytics
+
+Built on real public data (WHO, KDHS, IATI, Gates Foundation grants) for programme managers and funders.
+
+| Project | Stack | Key Finding |
+|:--|:--|:--|
+| 💉 [Kenya Vaccination Coverage Dashboard](https://github.com/PatienceAnono/vaccination-coverage-dashboard) | Python · Power BI | DTP3 coverage fell from 91% (2016) to 85%; eight counties remain below the 70% WHO critical threshold |
+| 🤱 [Kenya Maternal & Child Health Analytics](https://github.com/PatienceAnono/maternal-health-analytics-dashboard) | Python · Power BI | ANC4+ coverage ranges from 18% to 93% across counties; tracks eight SDG 3 indicators |
+| 🦠 [Kenya Disease Surveillance Dashboard](https://github.com/PatienceAnono/disease-surveillance-dashboard) | Python · Power BI · WHO API | Malaria fell 78% in 22 years; TB detection gap nearly doubled during COVID; county risk index for all 46 counties |
+| 💰 [Gates Foundation Africa Health — Donor Impact](https://github.com/PatienceAnono/donor-funding-analytics) | Python · Power BI | $10.85B across 2,638 grants and 799 organisations, mapped against disease outcomes |
+| 📋 [NGO M&E Dashboard — Kenya Health Portfolio](https://github.com/PatienceAnono/monitoring-and-evaluation-dashboard) | Python · Power BI | 129 active projects and 167 log frame indicators tracked with RAG status |
+
+---
+
 ## 📚 Additional Projects
 
 | Project | Stack | Key Finding |
 |:--|:--|:--|
-| 📈 Website Traffic & Revenue Analysis | Python · GA4 · Power BI | Sessions showed r = 0.012 with revenue; higher-traffic periods converted less efficiently |
-| 📊 E-Commerce BI Dashboard | Power BI · DAX | Executive revenue, retention, product & regional KPI dashboard |
-| 🕸️ E-Commerce Web Scraper & ETL | Python · BeautifulSoup · SQLite | 1,000 products · 16 fields · 50 categories · 0 duplicates |
-| 📣 Advertising Performance Analysis | Python · Excel · Power BI | Channel-level ROAS, CTR, CPC efficiency and spend optimisation |
+| 📈 [Website Traffic & Revenue Analysis](https://github.com/PatienceAnono/website-traffic-analysis) | Python · Power BI · DAX | Sessions showed r = 0.012 with revenue; higher-traffic channels converted less efficiently (r = −0.640) |
+| 📣 [Ad Campaign Performance Analysis](https://github.com/PatienceAnono/ecommerce-ad-campaign-performance-analysis) | Python · Excel · Power BI | $42.6M revenue on $5.2M spend (8.19× ROAS) across 5 platforms; conversions, not spend, track revenue |
+| 📊 [E-Commerce Commercial Performance Dashboard](https://github.com/PatienceAnono/Ecommerce-Commercial-Performance-Dashboard) | Power BI · DAX | Four-page executive dashboard: revenue, customers, products, channels, regions and cohort retention |
+| 🕸️ [E-Commerce Web Scraper & ETL](https://github.com/PatienceAnono/Ecommerce-Web-Scraper-ETL) | Python · BeautifulSoup · SQLite | 1,000 products · 16 fields · 50 categories · 0 duplicates |
+| 🔍 [Customer & Marketing Insights (GA)](https://github.com/PatienceAnono/Customer-Marketing-Insights-Analysis) | SQL · Python | Marketing, product and funnel performance on the Google Analytics e-commerce dataset |
+| ☕ [Coffee Sales Dashboard](https://github.com/PatienceAnono/coffee-sales-excel-dashboard) | Excel | Monthly revenue, weekly performance, product demand analysis |
+| 📞 [SyriaTel Customer Churn](https://github.com/PatienceAnono/-SyriaTel-Customer-Churn-Project) | Python | Classifier predicting which telecom customers are about to leave |
+| 🕵️ [Credit Card Fraud Detection](https://github.com/PatienceAnono/Credit-Card-Fraud-Dectection) | Python · XGBoost · Random Forest | Imbalanced-dataset ML classification for fraud identification |
+| 👩‍💼 [HR Data Analysis](https://github.com/PatienceAnono/HR-DATA-ANALYSIS) | SQL · Power BI | Workforce KPI dashboard — data cleaning, SQL analysis, BI reporting |
+| 🩺 [Healthcare Data Analysis](https://github.com/PatienceAnono/HEALTH-CARE-DATA-ANALYSIS) | Python | Patient visits, satisfaction & healthcare centre performance |
 | 📊 Business Performance Dashboard | Excel · Pivot Tables | Revenue drivers, cost trends and operational KPI monitoring |
-| ☕ Coffee Sales Dashboard | Excel | Monthly revenue, weekly performance, product demand analysis |
-| 🕵️ Credit Card Fraud Detection | Python · XGBoost · Random Forest | Imbalanced-dataset ML classification for fraud identification |
-| 👩‍💼 HR Data Analysis | SQL · Power BI | Workforce KPI dashboard — data cleaning, SQL analysis, BI reporting |
 | 🌾 Food Security Monitoring | Tableau | Interactive dashboard: food access, household income, malnutrition |
-| 🩺 Healthcare Data Analysis | Python | Patient visits, satisfaction & healthcare centre performance |
 
 ---
 
@@ -397,16 +485,16 @@ Built a binary churn prediction model on 12,000 customer records with 18 enginee
 
 **📜 Certifications**
 
+[![British Airways Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_British_Airways-272D78?style=flat-square)](certificates/British_Airways_Data_Science_Job_Simulation_Forage.pdf)
+[![BCG X Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_BCG_X-3386C7?style=flat-square)](certificates/BCG_X_Data_Science_Job_Simulation_Forage.pdf)
 ![GA4](https://img.shields.io/badge/Google_Analytics_4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
 ![IBM SQL](https://img.shields.io/badge/SQL_%26_Relational_DBs_–_IBM-272D78?style=flat-square)
 ![HubSpot](https://img.shields.io/badge/Digital_Marketing_–_HubSpot-3386C7?style=flat-square)
 ![HubSpot SEO](https://img.shields.io/badge/SEO_Certification_–_HubSpot-3386C7?style=flat-square)
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-2EC4B6?style=flat-square&logo=google&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Network_Support_–_Cisco-2EC4B6?style=flat-square)
-[![British Airways Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_British_Airways-272D78?style=flat-square)](certificates/British_Airways_Data_Science_Job_Simulation_Forage.pdf)
-[![BCG X Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation_–_BCG_X-3386C7?style=flat-square)](certificates/BCG_X_Data_Science_Job_Simulation_Forage.pdf)
 
-<sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (problem framing, EDA & data cleaning, feature engineering, modelling & evaluation).</sub>
+<sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (problem framing, EDA & data cleaning, feature engineering, modelling & evaluation). See the extended case studies: <a href="https://github.com/PatienceAnono/british-airways-analytics">British Airways</a> · <a href="https://github.com/PatienceAnono/PowerCo-SME-Customer-Churn-Retention-Intelligence">BCG X / PowerCo</a>.</sub>
 
 </td>
 </tr>
@@ -422,14 +510,14 @@ Built a binary churn prediction model on 12,000 customer records with 18 enginee
 |:--:|:--|
 | 🌐 **Portfolio** | [padataanalytics.com](https://www.padataanalytics.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/patience-anono](https://linkedin.com/in/patience-anono/) |
-| 📧 **Email** | [anonopatience@gmail.com](mailto:anonopatience@gmail.com) |
+| 📧 **Email** | [hello@padataanalytics.com](mailto:hello@padataanalytics.com) |
 | 🐙 **GitHub** | [github.com/PatienceAnono](https://github.com/PatienceAnono) |
 
 <br/>
 
 [![View Portfolio](https://img.shields.io/badge/View_Portfolio-272D78?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.padataanalytics.com)&nbsp;
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patience-anono/)&nbsp;
-[![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anonopatience@gmail.com)
+[![Send an Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@padataanalytics.com)
 
 </div>
 
