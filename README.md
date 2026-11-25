@@ -47,7 +47,7 @@
 | 🎯 **Focus** | Marketing measurement (MMM, attribution, A/B testing), customer analytics (churn, retention, segmentation), revenue & funnel analytics |
 | 🧰 **Core stack** | Python · SQL · BigQuery · Power BI · Excel · GA4 · scikit-learn · LightGBM · Statsmodels |
 | 🏭 **Industries covered** | E-commerce & DTC · SaaS · Airlines · Energy & utilities · Public health & development |
-| 🏅 **Latest** | Completed the **British Airways** and **BCG X** Data Science Job Simulations (Forage, Nov 2026) and extended both into full case studies |
+| 🏅 **Latest** | Earned **Marketing Analytics with Meta** (Coursera, Oct 2026) and completed the **British Airways** and **BCG X** Data Science Job Simulations (Forage, Nov 2026), extending both into full case studies |
 | 📂 **Every project** | From business question to analysis to recommendation, with code, notebooks and dashboards linked below |
 
 ---
@@ -488,6 +488,7 @@ Built on real public data (WHO, KDHS, IATI, Gates Foundation grants) for program
 
 [![British Airways Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation%2C_British_Airways-272D78?style=flat-square)](certificates/British_Airways_Data_Science_Job_Simulation_Forage.pdf)
 [![BCG X Data Science](https://img.shields.io/badge/Data_Science_Job_Simulation%2C_BCG_X-3386C7?style=flat-square)](certificates/BCG_X_Data_Science_Job_Simulation_Forage.pdf)
+[![Meta Marketing Analytics](https://img.shields.io/badge/Marketing_Analytics%2C_Meta-272D78?style=flat-square&logo=meta&logoColor=white)](https://coursera.org/verify/4W5E1PXL34PP)
 ![GA4](https://img.shields.io/badge/Google_Analytics_4-272D78?style=flat-square&logo=googleanalytics&logoColor=white)
 ![IBM SQL](https://img.shields.io/badge/SQL_%26_Relational_DBs%2C_IBM-272D78?style=flat-square)
 ![HubSpot](https://img.shields.io/badge/Digital_Marketing%2C_HubSpot-3386C7?style=flat-square)
@@ -495,7 +496,7 @@ Built on real public data (WHO, KDHS, IATI, Gates Foundation grants) for program
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-2EC4B6?style=flat-square&logo=google&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Network_Support%2C_Cisco-2EC4B6?style=flat-square)
 
-<sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (problem framing, EDA & data cleaning, feature engineering, modelling & evaluation). See the extended case studies: <a href="https://github.com/PatienceAnono/british-airways-analytics">British Airways</a> · <a href="https://github.com/PatienceAnono/PowerCo-SME-Customer-Churn-Retention-Intelligence">BCG X / PowerCo</a>.</sub>
+<sub>Marketing Analytics with Meta, completed Oct 2026 on Coursera: <a href="https://coursera.org/verify/4W5E1PXL34PP">verify</a> · <a href="certificates/Marketing_Analytics_with_Meta_Coursera.pdf">certificate PDF</a>.<br/><sub>Job simulations completed via Forage, Nov 2026: British Airways (lounge eligibility modelling, customer buying behaviour prediction) and BCG X (problem framing, EDA & data cleaning, feature engineering, modelling & evaluation). See the extended case studies: <a href="https://github.com/PatienceAnono/british-airways-analytics">British Airways</a> · <a href="https://github.com/PatienceAnono/PowerCo-SME-Customer-Churn-Retention-Intelligence">BCG X / PowerCo</a>.</sub>
 
 </td>
 </tr>
